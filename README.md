@@ -20,6 +20,7 @@
   * [Python3 网络爬虫（三）：漫画下载，动态加载、反爬虫这都不叫事！](https://mp.weixin.qq.com/s/wyS-OP04K3Vs9arSelRlyA)
   * [Python3 网络爬虫（四）：视频下载，那些事儿！](https://mp.weixin.qq.com/s/_geNA6Dwo4kx25X7trJzlg)
   * [Python3 网络爬虫（五）：老板，需要特殊服务吗？](https://mp.weixin.qq.com/s/PPTSnIHV71b-wB3oRiYnIA)
+  * [Python3 网络爬虫（六）：618，爱他/她，就清空他/她的购物车！](https://mp.weixin.qq.com/s/lXXDfzyLVrf3f-aqJN1C3A)
   * 更新ing...
 * Pytorch深度学习实战
   * [Pytorch深度学习实战教程（一）：语义分割基础与环境搭建](https://mp.weixin.qq.com/s/KI-9z7FBjfoWfZK3PEPXJA)
