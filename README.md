@@ -63,7 +63,7 @@
   * [算法基础：BFS和DFS的直观解释](https://cuijiahua.com/blog/2018/01/alogrithm_10.html)
   * [剑指Offer系列刷题笔记汇总](https://cuijiahua.com/blog/2018/02/basis_67.html)
 * 算法面经
-  * [春招算法实习面试经验总结](https://cuijiahua.com/blog/2018/04/life_2.html)
+  * [秋招在即，你准备好了吗？](https://mp.weixin.qq.com/s/tSnqXI2h_R5Ag34T0h-zZg)
   * [春招视觉算法实习面经](https://cuijiahua.com/blog/2019/11/life-52.html)
   * 更新中...
 * 福利
