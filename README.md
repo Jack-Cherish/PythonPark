@@ -33,6 +33,7 @@
   * [百变人脸，趣味容颜，ALAE 人脸玩出新高度！](https://mp.weixin.qq.com/s/9C8OY7bchZNfqUCFSFuhjQ)
   * [你的红色高跟鞋，AI 换脸技术初体验](https://mp.weixin.qq.com/s/5kIN2Da-Bw-furkG-_N9nA)
   * [心中无码便是高清，马赛克“脑补”算法 PULSE](https://mp.weixin.qq.com/s/T5LHHHgxwwZLn7RI3u3T3Q)
+  * [秃头生成器，Hairstyle Transfer 你值得拥有！](https://mp.weixin.qq.com/s/3rmChrBmXGLiPvp14Vo-Fg)
   * 更新ing...
 * Tensorflow深度学习实战
   * [Tensorflow实战（一）：打响深度学习的第一枪 – 手写数字识别（Tensorboard可视化）](https://cuijiahua.com/blog/2018/01/dl_4.html)
