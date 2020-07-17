@@ -28,6 +28,7 @@
   * [Pytorch深度学习实战教程（三）：UNet模型训练](https://mp.weixin.qq.com/s/7FY77k3xtK-UyfoXpFXgBQ)
   * [Pytorch深度学习实战教程（四）：必知必会的炼丹法宝](https://mp.weixin.qq.com/s/RhvCeesbzAQmK0yv8D6LjQ)
   * [Pytorch深度学习实战教程（五）：今天，你垃圾分类了吗？](https://mp.weixin.qq.com/s/Yt2M-cjLdRgOowNNm2Ll8Q)
+  * [Pytorch 深度学习实战教程（六）：仝卓自爆，快本打码。](https://mp.weixin.qq.com/s/za4DsGMcLZYCbTir9QFPKQ)
   * 更新ing...
 * AI 实验室
   * [百变人脸，趣味容颜，ALAE 人脸玩出新高度！](https://mp.weixin.qq.com/s/9C8OY7bchZNfqUCFSFuhjQ)
