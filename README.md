@@ -16,6 +16,7 @@
 注：文章正在逐渐完善，持续更新中，敬请期待！
 
 * 视频
+  * [程序员必备的8个学习网站，再也不用交智商税了](https://www.bilibili.com/video/BV1oC4y147S2)
   * [计算机应届毕业生薪资有多高？算法工程师面试贴心指南](https://mp.weixin.qq.com/s/M2zxrLq3POlZfBon1V2wRQ)
 * 网络爬虫
   * [Python3 网络爬虫（一）：初识网络爬虫之夜探老王家](https://mp.weixin.qq.com/s/1rcq9RQYuAuHFg1w1j8HXg)
