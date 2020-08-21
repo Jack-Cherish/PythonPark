@@ -41,6 +41,7 @@
   * [心中无码便是高清，马赛克“脑补”算法 PULSE](https://mp.weixin.qq.com/s/T5LHHHgxwwZLn7RI3u3T3Q)
   * [秃头生成器，Hairstyle Transfer 你值得拥有！](https://mp.weixin.qq.com/s/3rmChrBmXGLiPvp14Vo-Fg)
   * [太强了！基于深度学习的文本自动解密算法。](https://mp.weixin.qq.com/s/weQ4cjblwQF9JDZ9vbzYMg)
+  * [AI算法让图片动起来，特朗普和蒙娜丽莎深情合唱《Unravel》](https://mp.weixin.qq.com/s/CyWyrVvWs3-iFKOUdDg0pQ)
   * 更新ing...
 * Tensorflow深度学习实战
   * [Tensorflow实战（一）：打响深度学习的第一枪 – 手写数字识别（Tensorboard可视化）](https://cuijiahua.com/blog/2018/01/dl_4.html)
