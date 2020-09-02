@@ -19,14 +19,18 @@
   * [程序员必备的8个学习网站，再也不用交智商税了](https://www.bilibili.com/video/BV1oC4y147S2)
   * [计算机应届毕业生薪资有多高？算法工程师面试贴心指南](https://www.bilibili.com/video/BV1DZ4y1T7oq)
   * [AI人工智能技术还原康乾盛世三代皇帝样貌，竟然有点帅！](https://www.bilibili.com/video/BV1pV411S7ke)
-* 网络爬虫
-  * [Python3 网络爬虫（一）：初识网络爬虫之夜探老王家](https://mp.weixin.qq.com/s/1rcq9RQYuAuHFg1w1j8HXg)
-  * [Python3 网络爬虫（二）：下载小说的正确姿势](https://mp.weixin.qq.com/s/5e2_r0QXUISVp9GdDsqbzg)
-  * [Python3 网络爬虫（三）：漫画下载，动态加载、反爬虫这都不叫事！](https://mp.weixin.qq.com/s/wyS-OP04K3Vs9arSelRlyA)
-  * [Python3 网络爬虫（四）：视频下载，那些事儿！](https://mp.weixin.qq.com/s/_geNA6Dwo4kx25X7trJzlg)
-  * [Python3 网络爬虫（五）：老板，需要特殊服务吗？](https://mp.weixin.qq.com/s/PPTSnIHV71b-wB3oRiYnIA)
-  * [Python3 网络爬虫（六）：618，爱他/她，就清空他/她的购物车！](https://mp.weixin.qq.com/s/lXXDfzyLVrf3f-aqJN1C3A)
-  * [宝藏B站UP主，视频弹幕尽收囊中！](https://mp.weixin.qq.com/s/aWratg1j9RBAjIghoY66yQ)
+* 算法面经
+  * [秋招在即，你准备好了吗？](https://mp.weixin.qq.com/s/tSnqXI2h_R5Ag34T0h-zZg)
+  * [春招视觉算法实习面经](https://cuijiahua.com/blog/2019/11/life-52.html)
+  * [成功上岸阿里，深度学习知识考点总结](https://mp.weixin.qq.com/s/5LbcPsffKr_1qCEWlTrgRQ)
+  * 更新中...
+* AI 实验室
+  * [百变人脸，趣味容颜，ALAE 人脸玩出新高度！](https://mp.weixin.qq.com/s/9C8OY7bchZNfqUCFSFuhjQ)
+  * [你的红色高跟鞋，AI 换脸技术初体验](https://mp.weixin.qq.com/s/5kIN2Da-Bw-furkG-_N9nA)
+  * [心中无码便是高清，马赛克“脑补”算法 PULSE](https://mp.weixin.qq.com/s/T5LHHHgxwwZLn7RI3u3T3Q)
+  * [秃头生成器，Hairstyle Transfer 你值得拥有！](https://mp.weixin.qq.com/s/3rmChrBmXGLiPvp14Vo-Fg)
+  * [太强了！基于深度学习的文本自动解密算法。](https://mp.weixin.qq.com/s/weQ4cjblwQF9JDZ9vbzYMg)
+  * [AI算法让图片动起来，特朗普和蒙娜丽莎深情合唱《Unravel》](https://mp.weixin.qq.com/s/CyWyrVvWs3-iFKOUdDg0pQ)
   * 更新ing...
 * Pytorch深度学习实战
   * [Pytorch深度学习实战教程（一）：语义分割基础与环境搭建](https://mp.weixin.qq.com/s/KI-9z7FBjfoWfZK3PEPXJA)
@@ -36,13 +40,14 @@
   * [Pytorch深度学习实战教程（五）：今天，你垃圾分类了吗？](https://mp.weixin.qq.com/s/Yt2M-cjLdRgOowNNm2Ll8Q)
   * [Pytorch 深度学习实战教程（六）：仝卓自爆，快本打码。](https://mp.weixin.qq.com/s/za4DsGMcLZYCbTir9QFPKQ)
   * 更新ing...
-* AI 实验室
-  * [百变人脸，趣味容颜，ALAE 人脸玩出新高度！](https://mp.weixin.qq.com/s/9C8OY7bchZNfqUCFSFuhjQ)
-  * [你的红色高跟鞋，AI 换脸技术初体验](https://mp.weixin.qq.com/s/5kIN2Da-Bw-furkG-_N9nA)
-  * [心中无码便是高清，马赛克“脑补”算法 PULSE](https://mp.weixin.qq.com/s/T5LHHHgxwwZLn7RI3u3T3Q)
-  * [秃头生成器，Hairstyle Transfer 你值得拥有！](https://mp.weixin.qq.com/s/3rmChrBmXGLiPvp14Vo-Fg)
-  * [太强了！基于深度学习的文本自动解密算法。](https://mp.weixin.qq.com/s/weQ4cjblwQF9JDZ9vbzYMg)
-  * [AI算法让图片动起来，特朗普和蒙娜丽莎深情合唱《Unravel》](https://mp.weixin.qq.com/s/CyWyrVvWs3-iFKOUdDg0pQ)
+* 网络爬虫
+  * [Python3 网络爬虫（一）：初识网络爬虫之夜探老王家](https://mp.weixin.qq.com/s/1rcq9RQYuAuHFg1w1j8HXg)
+  * [Python3 网络爬虫（二）：下载小说的正确姿势](https://mp.weixin.qq.com/s/5e2_r0QXUISVp9GdDsqbzg)
+  * [Python3 网络爬虫（三）：漫画下载，动态加载、反爬虫这都不叫事！](https://mp.weixin.qq.com/s/wyS-OP04K3Vs9arSelRlyA)
+  * [Python3 网络爬虫（四）：视频下载，那些事儿！](https://mp.weixin.qq.com/s/_geNA6Dwo4kx25X7trJzlg)
+  * [Python3 网络爬虫（五）：老板，需要特殊服务吗？](https://mp.weixin.qq.com/s/PPTSnIHV71b-wB3oRiYnIA)
+  * [Python3 网络爬虫（六）：618，爱他/她，就清空他/她的购物车！](https://mp.weixin.qq.com/s/lXXDfzyLVrf3f-aqJN1C3A)
+  * [宝藏B站UP主，视频弹幕尽收囊中！](https://mp.weixin.qq.com/s/aWratg1j9RBAjIghoY66yQ)
   * 更新ing...
 * Tensorflow深度学习实战
   * [Tensorflow实战（一）：打响深度学习的第一枪 – 手写数字识别（Tensorboard可视化）](https://cuijiahua.com/blog/2018/01/dl_4.html)
@@ -73,11 +78,6 @@
   * [程序员内功：八大排序算法](https://cuijiahua.com/blog/2018/01/alogrithm_9.html)
   * [算法基础：BFS和DFS的直观解释](https://cuijiahua.com/blog/2018/01/alogrithm_10.html)
   * [剑指Offer系列刷题笔记汇总](https://cuijiahua.com/blog/2018/02/basis_67.html)
-* 算法面经
-  * [秋招在即，你准备好了吗？](https://mp.weixin.qq.com/s/tSnqXI2h_R5Ag34T0h-zZg)
-  * [春招视觉算法实习面经](https://cuijiahua.com/blog/2019/11/life-52.html)
-  * [成功上岸阿里，深度学习知识考点总结](https://mp.weixin.qq.com/s/5LbcPsffKr_1qCEWlTrgRQ)
-  * 更新中...
 * 福利
   * [电子书](https://github.com/Jack-Cherish/PythonPark/blob/master/docs/resource/%E7%94%B5%E5%AD%90%E4%B9%A6.md)
 
