@@ -76,6 +76,7 @@
 * 算法面经
   * [秋招在即，你准备好了吗？](https://mp.weixin.qq.com/s/tSnqXI2h_R5Ag34T0h-zZg)
   * [春招视觉算法实习面经](https://cuijiahua.com/blog/2019/11/life-52.html)
+  * [成功上岸阿里，深度学习知识考点总结](https://mp.weixin.qq.com/s/5LbcPsffKr_1qCEWlTrgRQ)
   * 更新中...
 * 福利
   * [电子书](https://github.com/Jack-Cherish/PythonPark/blob/master/docs/resource/%E7%94%B5%E5%AD%90%E4%B9%A6.md)
