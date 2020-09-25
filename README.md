@@ -32,6 +32,7 @@
   * [太强了！基于深度学习的文本自动解密算法。](https://mp.weixin.qq.com/s/weQ4cjblwQF9JDZ9vbzYMg)
   * [AI算法让图片动起来，特朗普和蒙娜丽莎深情合唱《Unravel》](https://mp.weixin.qq.com/s/CyWyrVvWs3-iFKOUdDg0pQ)
   * [这些 AI 算法太强了，我有个大胆的想法！](https://mp.weixin.qq.com/s/6AP_Dl4T75lkviPAOJyHDA)
+  * [百年老照片修复算法，那些高颜值的父母！](https://mp.weixin.qq.com/s/hsMppcLioJbXSZ2ZL8bnug)
   * 更新ing...
 * Pytorch深度学习实战
   * [Pytorch深度学习实战教程（一）：语义分割基础与环境搭建](https://mp.weixin.qq.com/s/KI-9z7FBjfoWfZK3PEPXJA)
