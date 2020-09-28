@@ -33,6 +33,7 @@
   * [AI算法让图片动起来，特朗普和蒙娜丽莎深情合唱《Unravel》](https://mp.weixin.qq.com/s/CyWyrVvWs3-iFKOUdDg0pQ)
   * [这些 AI 算法太强了，我有个大胆的想法！](https://mp.weixin.qq.com/s/6AP_Dl4T75lkviPAOJyHDA)
   * [百年老照片修复算法，那些高颜值的父母！](https://mp.weixin.qq.com/s/hsMppcLioJbXSZ2ZL8bnug)
+  * [无限想象空间，用Python就能玩的3D人体姿态估计](https://mp.weixin.qq.com/s/efqdGCLni1P1UBDZmXDvSA)
   * 更新ing...
 * Pytorch深度学习实战
   * [Pytorch深度学习实战教程（一）：语义分割基础与环境搭建](https://mp.weixin.qq.com/s/KI-9z7FBjfoWfZK3PEPXJA)
