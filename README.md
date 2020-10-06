@@ -82,7 +82,6 @@
   * [算法基础：BFS和DFS的直观解释](https://cuijiahua.com/blog/2018/01/alogrithm_10.html)
   * [剑指Offer系列刷题笔记汇总](https://cuijiahua.com/blog/2018/02/basis_67.html)
 * 福利
-  * [电子书](https://github.com/Jack-Cherish/PythonPark/blob/master/docs/resource/%E7%94%B5%E5%AD%90%E4%B9%A6.md)
   * [16张让你编程能力突飞猛进的代码速查表](https://mp.weixin.qq.com/s/Lz0JbKTiiRlBtiMBZ-7cnA)
 
 更多内容，敬请期待！
