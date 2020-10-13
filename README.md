@@ -16,6 +16,7 @@
 注：文章正在逐渐完善，持续更新中，敬请期待！
 * 学习路线
   * [我是如何成为算法工程师的，超详细的学习路线](https://mp.weixin.qq.com/s/xUaFSdIMRI11agwwUUK2oA)
+  * [别再折腾开发环境了，一劳永逸的搭建方法](https://mp.weixin.qq.com/s/ghKGVutz9RQ4fMGJDHWtww)
 * 视频
   * [程序员必备的8个学习网站，再也不用交智商税了](https://www.bilibili.com/video/BV1oC4y147S2)
   * [计算机应届毕业生薪资有多高？算法工程师面试贴心指南](https://www.bilibili.com/video/BV1DZ4y1T7oq)
