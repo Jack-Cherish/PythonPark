@@ -21,6 +21,7 @@
   * [程序员必备的8个学习网站，再也不用交智商税了](https://www.bilibili.com/video/BV1oC4y147S2)
   * [计算机应届毕业生薪资有多高？算法工程师面试贴心指南](https://www.bilibili.com/video/BV1DZ4y1T7oq)
   * [AI人工智能技术还原康乾盛世三代皇帝样貌，竟然有点帅！](https://www.bilibili.com/video/BV1pV411S7ke)
+  * [AI复活明朝历代皇帝，来一场穿越时空的对话！](https://www.bilibili.com/video/BV1B54y1R7nD)
 * 算法面经
   * [秋招在即，你准备好了吗？](https://mp.weixin.qq.com/s/tSnqXI2h_R5Ag34T0h-zZg)
   * [春招视觉算法实习面经](https://cuijiahua.com/blog/2019/11/life-52.html)
