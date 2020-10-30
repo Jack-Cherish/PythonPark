@@ -40,6 +40,9 @@
   * [AI 隐身术，能让物体在视频中消失的魔法。](https://mp.weixin.qq.com/s/2ce_joHpAannpwfP8l-YkA)
   * [偷天换日，逼真的天空置换算法](https://mp.weixin.qq.com/s/bUVvafODJfqDHXWXhDxVhA)
   * 更新ing...
+* 程序人生
+  * [打工人的薪资倒挂](https://mp.weixin.qq.com/s/qLx8nevYEJnEwnJQq44zYA)
+  * 更新ing...
 * Pytorch深度学习实战
   * [Pytorch深度学习实战教程（一）：语义分割基础与环境搭建](https://mp.weixin.qq.com/s/KI-9z7FBjfoWfZK3PEPXJA)
   * [Pytorch深度学习实战教程（二）：UNet语义分割网络](https://mp.weixin.qq.com/s/6tZVUbyEjLVewM8vGK9Zhw)
