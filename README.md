@@ -41,9 +41,10 @@
   * [偷天换日，逼真的天空置换算法](https://mp.weixin.qq.com/s/bUVvafODJfqDHXWXhDxVhA)
   * [手残党抠图有救了！](https://mp.weixin.qq.com/s/UFdj4Utyoa6rySYy1qVl8Q)
   * 更新ing...
-* 程序人生
+* 囧事人生
   * [打工人的薪资倒挂](https://mp.weixin.qq.com/s/qLx8nevYEJnEwnJQq44zYA)
   * [个人网站没落了？](https://mp.weixin.qq.com/s/sum2v1iTokWPaxiNEZCtxg)
+  * [感谢有你，写作以来的得与失](https://mp.weixin.qq.com/s/qbp7UD3X_7e7godHBAavzg)
   * 更新ing...
 * Pytorch深度学习实战
   * [Pytorch深度学习实战教程（一）：语义分割基础与环境搭建](https://mp.weixin.qq.com/s/KI-9z7FBjfoWfZK3PEPXJA)
