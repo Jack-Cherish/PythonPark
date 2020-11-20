@@ -41,6 +41,7 @@
   * [AI 隐身术，能让物体在视频中消失的魔法。](https://mp.weixin.qq.com/s/2ce_joHpAannpwfP8l-YkA)
   * [偷天换日，逼真的天空置换算法](https://mp.weixin.qq.com/s/bUVvafODJfqDHXWXhDxVhA)
   * [手残党抠图有救了！](https://mp.weixin.qq.com/s/UFdj4Utyoa6rySYy1qVl8Q)
+  * [为艺术而生的惊艳算法](https://mp.weixin.qq.com/s/BnuNQYk4AXbyQpZFwu02qg)
   * 更新ing...
 * 囧事人生
   * [打工人的薪资倒挂](https://mp.weixin.qq.com/s/qLx8nevYEJnEwnJQq44zYA)
