@@ -50,6 +50,7 @@
   * [为艺术而生的惊艳算法](https://mp.weixin.qq.com/s/BnuNQYk4AXbyQpZFwu02qg)
   * [「完美复刻」的人物肖像画生成](https://mp.weixin.qq.com/s/FoFgkCxMhwxjGieCe8Rg2A)
   * [带你「周游世界」的 MODNet 算法](https://mp.weixin.qq.com/s/kkM75PH-0Dtw4xCdgmTQdg)
+  * [川普的退休生活，AI 宅舞很专业。](https://mp.weixin.qq.com/s/p5dPfSOOVWsEor6X-hBSkA)
   * 更新ing...
 * 囧事人生
   * [打工人的薪资倒挂](https://mp.weixin.qq.com/s/qLx8nevYEJnEwnJQq44zYA)
