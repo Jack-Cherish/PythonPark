@@ -15,6 +15,8 @@
 # 目录（善用Ctrl+F）
 
 注：文章正在逐渐完善，持续更新中，敬请期待！
+* 图书福利
+  * [学习资料](https://github.com/Jack-Cherish/awesome-cs-books)
 * 学习路线
   * [我是如何成为算法工程师的，超详细的学习路线](https://mp.weixin.qq.com/s/xUaFSdIMRI11agwwUUK2oA)
   * [别再折腾开发环境了，一劳永逸的搭建方法](https://mp.weixin.qq.com/s/ghKGVutz9RQ4fMGJDHWtww)
