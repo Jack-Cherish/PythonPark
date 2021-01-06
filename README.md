@@ -1,4 +1,4 @@
-这里是学习 Python 的乐园，涉及 Python 基础、数据结构、网络爬虫、机器学习、深度学习、面试经验，我会逐渐完善它，持续输出！
+这里是学习 Python 的乐园，**保姆级教程**：AI实验室、宝藏视频、数据结构、学习指南、机器学习实战、深度学习实战、Python基础、网络爬虫、大厂面经、程序人生、资源分享。**我会逐渐完善它，持续输出中！**
 
 原创文章每周最少两篇，**后续最新文章**会在[【公众号】](https://cuijiahua.com/wp-content/uploads/2020/05/gzh-w.jpg)首发，视频[【B站】](https://space.bilibili.com/331507846)首发，大家可以加我[【微信】](https://cuijiahua.com/wp-content/uploads/2020/05/gzh-w.jpg)进**交流群**，技术交流或提意见都可以，欢迎**Star**！
 
