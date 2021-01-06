@@ -12,8 +12,6 @@
   <a href="https://juejin.im/user/5ea2ca74e51d4546b50d5f9f" target="_blank"><img src="https://img.shields.io/badge/juejin-掘金-blue.svg" alt="掘金"></a>
 </p>
 
-![image](https://raw.githubusercontent.com/Jack-Cherish/PythonPark/master/images/dt.png)
-
 # 目录（善用Ctrl+F）
 
 注：文章正在逐渐完善，持续更新中，敬请期待！
@@ -114,6 +112,8 @@
   * [16张让你编程能力突飞猛进的代码速查表](https://mp.weixin.qq.com/s/Lz0JbKTiiRlBtiMBZ-7cnA)
   
 更多内容，敬请期待！
+
+![image](https://raw.githubusercontent.com/Jack-Cherish/PythonPark/master/images/dt.jpg)
 
 <a name="微信"></a>  <a name="公众号"></a>
 
