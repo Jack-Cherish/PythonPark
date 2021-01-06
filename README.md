@@ -17,8 +17,6 @@
 # 目录（善用Ctrl+F）
 
 注：文章正在逐渐完善，持续更新中，敬请期待！
-* 学习资料
-  * [电子书&视频](https://github.com/Jack-Cherish/awesome-cs-books)
 * 学习路线
   * [我是如何成为算法工程师的，超详细的学习路线](https://mp.weixin.qq.com/s/xUaFSdIMRI11agwwUUK2oA)
   * [别再折腾开发环境了，一劳永逸的搭建方法](https://mp.weixin.qq.com/s/ghKGVutz9RQ4fMGJDHWtww)
@@ -32,6 +30,10 @@
   * [AI还原乾隆后妃样貌，延禧攻略众生相。](https://www.bilibili.com/video/BV1h54y1z7Ds)
   * [6分钟带你回顾2020年高能的AI算法](https://www.bilibili.com/video/BV1kf4y1C7LR)
   * 更新中...
+* 数据结构与算法基础
+  * [程序员内功：八大排序算法](https://cuijiahua.com/blog/2018/01/alogrithm_9.html)
+  * [算法基础：BFS和DFS的直观解释](https://cuijiahua.com/blog/2018/01/alogrithm_10.html)
+  * [剑指Offer系列刷题笔记汇总](https://cuijiahua.com/blog/2018/02/basis_67.html)
 * 算法面经
   * [秋招在即，你准备好了吗？](https://mp.weixin.qq.com/s/tSnqXI2h_R5Ag34T0h-zZg)
   * [春招视觉算法实习面经](https://cuijiahua.com/blog/2019/11/life-52.html)
@@ -107,13 +109,10 @@
   * [深度学习实战教程(五)：循环神经网络](https://cuijiahua.com/blog/2018/12/dl-11.html)
   * [深度学习实战教程(六)：长短时记忆网络(LSTM)](https://cuijiahua.com/blog/2019/01/dl-12.html)
   * [深度学习实战教程(七)：递归神经网络](https://cuijiahua.com/blog/2019/02/dl-13.html)
-* 数据结构与算法基础
-  * [程序员内功：八大排序算法](https://cuijiahua.com/blog/2018/01/alogrithm_9.html)
-  * [算法基础：BFS和DFS的直观解释](https://cuijiahua.com/blog/2018/01/alogrithm_10.html)
-  * [剑指Offer系列刷题笔记汇总](https://cuijiahua.com/blog/2018/02/basis_67.html)
-* 福利
+* 学习资料
+  * [电子书&视频](https://github.com/Jack-Cherish/awesome-cs-books)
   * [16张让你编程能力突飞猛进的代码速查表](https://mp.weixin.qq.com/s/Lz0JbKTiiRlBtiMBZ-7cnA)
-
+  
 更多内容，敬请期待！
 
 <a name="微信"></a>  <a name="公众号"></a>
