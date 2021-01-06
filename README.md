@@ -4,7 +4,11 @@
 
 [【思维导图】](#思维导图)见文末~
 
-![image](https://raw.githubusercontent.com/Jack-Cherish/PythonPark/master/images/logo.png)
+<p align="center">
+    <a href="https://github.com/Jack-Cherish/PythonPark" target="_blank">
+        <img src="https://raw.githubusercontent.com/Jack-Cherish/PythonPark/master/images/logo.png" width="200" height="200"/>
+    </a>
+</p>
 
 <p align="center">
   <a href="https://cuijiahua.com/wp-content/uploads/2020/05/gzh-w.jpg" target="_blank"><img src="https://img.shields.io/badge/weChat-微信群-blue.svg" alt="微信群"></a>
