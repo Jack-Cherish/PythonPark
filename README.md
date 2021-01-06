@@ -61,6 +61,7 @@
   * [个人网站没落了？](https://mp.weixin.qq.com/s/sum2v1iTokWPaxiNEZCtxg)
   * [感谢有你，写作以来的得与失](https://mp.weixin.qq.com/s/qbp7UD3X_7e7godHBAavzg)
   * [2020年的最后一个月](https://mp.weixin.qq.com/s/_UHkY81-e4fG2TANhvYVag)
+  * [第一次进抢救室](https://mp.weixin.qq.com/s/HAfUd704CrAPt8FR9r2IYg)
   * 更新ing...
 * Pytorch深度学习实战
   * [Pytorch深度学习实战教程（一）：语义分割基础与环境搭建](https://mp.weixin.qq.com/s/KI-9z7FBjfoWfZK3PEPXJA)
