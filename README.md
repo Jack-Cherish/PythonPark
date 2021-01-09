@@ -127,7 +127,7 @@
 
 <a name="思维导图"></a>
 
-![image](https://raw.githubusercontent.com/Jack-Cherish/PythonPark/master/images/dt.jpg)
+![image](https://wx3.sinaimg.cn/large/006ps95Bly1gmh8k5vbyfj30u03cdnpd.jpg)
 
 <a name="微信"></a>  <a name="公众号"></a>
 
