@@ -7,7 +7,8 @@
 <p align="center">
     <a href="https://github.com/Jack-Cherish/PythonPark" target="_blank">
         <!--<img src="http://photos.cuijiahua.com/github/logo.png" width="200" height="200"/>-->
-        <img src="https://ftp.bmp.ovh/imgs/2021/01/cb3d04cb065fcdad.png" width="200" height="200"/>
+        <!--<img src="https://ftp.bmp.ovh/imgs/2021/01/cb3d04cb065fcdad.png" width="200" height="200"/>-->
+        <img src="https://raw.githubusercontent.com/Jack-Cherish/PythonPark/master/images/logo.png" width="200" height="200"/>
     </a>
 </p>
 
@@ -129,7 +130,8 @@
 <a name="思维导图"></a>
 
 <!--![image](http://photos.cuijiahua.com/github/dt.jpg)-->
-![image](https://ftp.bmp.ovh/imgs/2021/01/1d5ded7f914607ec.jpg)
+<!--![image](https://ftp.bmp.ovh/imgs/2021/01/1d5ded7f914607ec.jpg)-->
+![image](https://raw.githubusercontent.com/Jack-Cherish/PythonPark/master/images/dt.jpg)
 
 <a name="微信"></a>  <a name="公众号"></a>
 
