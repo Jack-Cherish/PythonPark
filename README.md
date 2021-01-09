@@ -6,7 +6,7 @@
 
 <p align="center">
     <a href="https://github.com/Jack-Cherish/PythonPark" target="_blank">
-        <img src="https://raw.githubusercontent.com/Jack-Cherish/PythonPark/master/images/logo.png" width="200" height="200"/>
+        <img src="http://photos.cuijiahua.com/github/logo.png" width="200" height="200"/>
     </a>
 </p>
 
@@ -127,7 +127,7 @@
 
 <a name="思维导图"></a>
 
-![image](https://wx3.sinaimg.cn/large/006ps95Bly1gmh8k5vbyfj30u03cdnpd.jpg)
+![image](http://photos.cuijiahua.com/github/dt.jpg)
 
 <a name="微信"></a>  <a name="公众号"></a>
 
