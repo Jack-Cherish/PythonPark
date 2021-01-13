@@ -27,6 +27,7 @@
 注：文章正在逐渐完善，持续更新中，敬请期待！
 * 最新内容（实时更新）
   * [用自己训练的AI玩王者荣耀是什么体验？](https://mp.weixin.qq.com/s/mj8PG-wRqSbEIR38fongHA)
+  * [人脸编辑再得一分，牛逼！](https://mp.weixin.qq.com/s/KA7ZsxDSHGoItTdFcdx87Q)
 
 * 学习路线
   * [我是如何成为算法工程师的，超详细的学习路线](https://mp.weixin.qq.com/s/xUaFSdIMRI11agwwUUK2oA)
@@ -71,6 +72,7 @@
   * [带你「周游世界」的 MODNet 算法](https://mp.weixin.qq.com/s/kkM75PH-0Dtw4xCdgmTQdg)
   * [川普的退休生活，AI 宅舞很专业。](https://mp.weixin.qq.com/s/p5dPfSOOVWsEor6X-hBSkA)
   * [用自己训练的AI玩王者荣耀是什么体验？](https://mp.weixin.qq.com/s/mj8PG-wRqSbEIR38fongHA)
+  * [人脸编辑再得一分，牛逼！](https://mp.weixin.qq.com/s/KA7ZsxDSHGoItTdFcdx87Q)
   * 更新ing...
 * 囧事人生
   * [打工人的薪资倒挂](https://mp.weixin.qq.com/s/qLx8nevYEJnEwnJQq44zYA)
