@@ -26,8 +26,8 @@
 
 注：文章正在逐渐完善，持续更新中，敬请期待！
 * 最新内容（实时更新）
+  * [保姆级教程：硬核图解Transformer](https://mp.weixin.qq.com/s/jx-2Ai2YKbwODW6uJaF3hQ)
   * [用自己训练的AI玩王者荣耀是什么体验？](https://mp.weixin.qq.com/s/mj8PG-wRqSbEIR38fongHA)
-  * [人脸编辑再得一分，牛逼！](https://mp.weixin.qq.com/s/KA7ZsxDSHGoItTdFcdx87Q)
 
 * 学习路线
   * [我是如何成为算法工程师的，超详细的学习路线](https://mp.weixin.qq.com/s/xUaFSdIMRI11agwwUUK2oA)
@@ -53,6 +53,7 @@
   * 更新中...
 * 图解 AI 算法
   * [「修炼开始」一文带你入门深度学习](https://mp.weixin.qq.com/s/ABvmPbFU9XfkOWj42Tv9jQ)
+  * [保姆级教程：硬核图解Transformer](https://mp.weixin.qq.com/s/jx-2Ai2YKbwODW6uJaF3hQ)
   * 更新中...
 * AI 实验室
   * [百变人脸，趣味容颜，ALAE 人脸玩出新高度！](https://mp.weixin.qq.com/s/9C8OY7bchZNfqUCFSFuhjQ)
