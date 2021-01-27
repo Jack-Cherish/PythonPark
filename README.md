@@ -27,7 +27,7 @@
 注：文章正在逐渐完善，持续更新中，敬请期待！
 * 最新内容（实时更新）
   * [B站优质视频资源推荐，起飞！](https://mp.weixin.qq.com/s/iL9XzJWsCt0s2VEiya_ycA)
-  * [我在哥大读博的五年，万字总结](https://mp.weixin.qq.com/s/zYU3RY6dgH4pCWyW-WCRwQ)
+  * [我在哥大读博的五年，万字总结](https://mp.weixin.qq.com/s/t1TGRRDgicEnBHxXE359fQ)
 
 * 学习路线
   * [我是如何成为算法工程师的，超详细的学习路线](https://mp.weixin.qq.com/s/xUaFSdIMRI11agwwUUK2oA)
@@ -83,7 +83,7 @@
   * [感谢有你，写作以来的得与失](https://mp.weixin.qq.com/s/qbp7UD3X_7e7godHBAavzg)
   * [2020年的最后一个月](https://mp.weixin.qq.com/s/_UHkY81-e4fG2TANhvYVag)
   * [第一次进抢救室](https://mp.weixin.qq.com/s/HAfUd704CrAPt8FR9r2IYg)
-  * [我在哥大读博的五年，万字总结](https://mp.weixin.qq.com/s/zYU3RY6dgH4pCWyW-WCRwQ)
+  * [我在哥大读博的五年，万字总结](https://mp.weixin.qq.com/s/t1TGRRDgicEnBHxXE359fQ)
   * 更新ing...
 * Pytorch深度学习实战
   * [Pytorch深度学习实战教程（一）：语义分割基础与环境搭建](https://mp.weixin.qq.com/s/KI-9z7FBjfoWfZK3PEPXJA)
