@@ -26,12 +26,12 @@
 
 注：文章正在逐渐完善，持续更新中，敬请期待！
 * 最新内容（实时更新）
-  * [B站，起飞！](https://mp.weixin.qq.com/s/iL9XzJWsCt0s2VEiya_ycA)
+  * [B站优质视频资源推荐，起飞！](https://mp.weixin.qq.com/s/iL9XzJWsCt0s2VEiya_ycA)
   * [我在哥大读博的五年，万字总结](https://mp.weixin.qq.com/s/zYU3RY6dgH4pCWyW-WCRwQ)
 
 * 学习路线
   * [我是如何成为算法工程师的，超详细的学习路线](https://mp.weixin.qq.com/s/xUaFSdIMRI11agwwUUK2oA)
-  * [B站，起飞！](https://mp.weixin.qq.com/s/iL9XzJWsCt0s2VEiya_ycA)
+  * [B站优质视频资源推荐，起飞！](https://mp.weixin.qq.com/s/iL9XzJWsCt0s2VEiya_ycA)
   * [别再折腾开发环境了，一劳永逸的搭建方法](https://mp.weixin.qq.com/s/ghKGVutz9RQ4fMGJDHWtww)
   * [助你编程能力「突飞猛进」的干货分享](https://mp.weixin.qq.com/s/viVP4oNLgDLLUz3sT3Djew)
   * 更新中...
