@@ -26,11 +26,12 @@
 
 注：文章正在逐渐完善，持续更新中，敬请期待！
 * 最新内容（实时更新）
-  * [保姆级教程：硬核图解Transformer](https://mp.weixin.qq.com/s/jx-2Ai2YKbwODW6uJaF3hQ)
-  * [用自己训练的AI玩王者荣耀是什么体验？](https://mp.weixin.qq.com/s/mj8PG-wRqSbEIR38fongHA)
+  * [B站，起飞！](https://mp.weixin.qq.com/s/iL9XzJWsCt0s2VEiya_ycA)
+  * [我在哥大读博的五年，万字总结](https://mp.weixin.qq.com/s/zYU3RY6dgH4pCWyW-WCRwQ)
 
 * 学习路线
   * [我是如何成为算法工程师的，超详细的学习路线](https://mp.weixin.qq.com/s/xUaFSdIMRI11agwwUUK2oA)
+  * [B站，起飞！](https://mp.weixin.qq.com/s/iL9XzJWsCt0s2VEiya_ycA)
   * [别再折腾开发环境了，一劳永逸的搭建方法](https://mp.weixin.qq.com/s/ghKGVutz9RQ4fMGJDHWtww)
   * [助你编程能力「突飞猛进」的干货分享](https://mp.weixin.qq.com/s/viVP4oNLgDLLUz3sT3Djew)
   * 更新中...
@@ -51,7 +52,8 @@
   * [春招视觉算法实习面经](https://cuijiahua.com/blog/2019/11/life-52.html)
   * [成功上岸阿里，深度学习知识考点总结](https://mp.weixin.qq.com/s/5LbcPsffKr_1qCEWlTrgRQ)
   * 更新中...
-* 图解 AI 算法
+* AI 基础
+  * [保姆级GPU白嫖攻略](https://mp.weixin.qq.com/s/zYU3RY6dgH4pCWyW-WCRwQ)
   * [「修炼开始」一文带你入门深度学习](https://mp.weixin.qq.com/s/ABvmPbFU9XfkOWj42Tv9jQ)
   * [保姆级教程：硬核图解Transformer](https://mp.weixin.qq.com/s/jx-2Ai2YKbwODW6uJaF3hQ)
   * 更新中...
@@ -81,6 +83,7 @@
   * [感谢有你，写作以来的得与失](https://mp.weixin.qq.com/s/qbp7UD3X_7e7godHBAavzg)
   * [2020年的最后一个月](https://mp.weixin.qq.com/s/_UHkY81-e4fG2TANhvYVag)
   * [第一次进抢救室](https://mp.weixin.qq.com/s/HAfUd704CrAPt8FR9r2IYg)
+  * [我在哥大读博的五年，万字总结](https://mp.weixin.qq.com/s/zYU3RY6dgH4pCWyW-WCRwQ)
   * 更新ing...
 * Pytorch深度学习实战
   * [Pytorch深度学习实战教程（一）：语义分割基础与环境搭建](https://mp.weixin.qq.com/s/KI-9z7FBjfoWfZK3PEPXJA)
