@@ -24,7 +24,7 @@
 
 # 目录（善用Ctrl+F）
 
-注：带有:star:的为高人气必看经典。
+注：带有:star:的为**高人气必看经典**。
 * 学习路线
   * :star:[我是如何成为算法工程师的，超详细的学习路线](https://mp.weixin.qq.com/s/xUaFSdIMRI11agwwUUK2oA)
   * :star:[B站优质视频资源推荐，起飞！](https://mp.weixin.qq.com/s/iL9XzJWsCt0s2VEiya_ycA)
@@ -35,8 +35,8 @@
   * [计算机应届毕业生薪资有多高？算法工程师面试贴心指南](https://www.bilibili.com/video/BV1DZ4y1T7oq)
   * [AI人工智能技术还原康乾盛世三代皇帝样貌，竟然有点帅！](https://www.bilibili.com/video/BV1pV411S7ke)
   * [AI复活明朝历代皇帝，来一场穿越时空的对话！](https://www.bilibili.com/video/BV1B54y1R7nD)
-  * [AI还原乾隆后妃样貌，延禧攻略众生相。](https://www.bilibili.com/video/BV1h54y1z7Ds)
-  * [6分钟带你回顾2020年高能的AI算法](https://www.bilibili.com/video/BV1kf4y1C7LR)
+  * :star:[AI还原乾隆后妃样貌，延禧攻略众生相。](https://www.bilibili.com/video/BV1h54y1z7Ds)
+  * :star:[6分钟带你回顾2020年高能的AI算法](https://www.bilibili.com/video/BV1kf4y1C7LR)
 * 数据结构与算法基础
   * [程序员内功：八大排序算法](https://cuijiahua.com/blog/2018/01/alogrithm_9.html)
   * [算法基础：BFS和DFS的直观解释](https://cuijiahua.com/blog/2018/01/alogrithm_10.html)
@@ -51,22 +51,22 @@
   * [保姆级教程：硬核图解Transformer](https://mp.weixin.qq.com/s/jx-2Ai2YKbwODW6uJaF3hQ)
 * AI 实验室
   * [百变人脸，趣味容颜，ALAE 人脸玩出新高度！](https://mp.weixin.qq.com/s/9C8OY7bchZNfqUCFSFuhjQ)
-  * [你的红色高跟鞋，AI 换脸技术初体验](https://mp.weixin.qq.com/s/5kIN2Da-Bw-furkG-_N9nA)
-  * [心中无码便是高清，马赛克“脑补”算法 PULSE](https://mp.weixin.qq.com/s/T5LHHHgxwwZLn7RI3u3T3Q)
+  * :star:[你的红色高跟鞋，AI 换脸技术初体验](https://mp.weixin.qq.com/s/5kIN2Da-Bw-furkG-_N9nA)
+  * :star:[心中无码便是高清，马赛克“脑补”算法 PULSE](https://mp.weixin.qq.com/s/T5LHHHgxwwZLn7RI3u3T3Q)
   * [秃头生成器，Hairstyle Transfer 你值得拥有！](https://mp.weixin.qq.com/s/3rmChrBmXGLiPvp14Vo-Fg)
   * [太强了！基于深度学习的文本自动解密算法。](https://mp.weixin.qq.com/s/weQ4cjblwQF9JDZ9vbzYMg)
   * [AI算法让图片动起来，特朗普和蒙娜丽莎深情合唱《Unravel》](https://mp.weixin.qq.com/s/CyWyrVvWs3-iFKOUdDg0pQ)
   * [这些 AI 算法太强了，我有个大胆的想法！](https://mp.weixin.qq.com/s/6AP_Dl4T75lkviPAOJyHDA)
-  * [百年老照片修复算法，那些高颜值的父母！](https://mp.weixin.qq.com/s/hsMppcLioJbXSZ2ZL8bnug)
+  * :star:[百年老照片修复算法，那些高颜值的父母！](https://mp.weixin.qq.com/s/hsMppcLioJbXSZ2ZL8bnug)
   * [无限想象空间，用Python就能玩的3D人体姿态估计](https://mp.weixin.qq.com/s/efqdGCLni1P1UBDZmXDvSA)
   * [AI 隐身术，能让物体在视频中消失的魔法。](https://mp.weixin.qq.com/s/2ce_joHpAannpwfP8l-YkA)
   * [偷天换日，逼真的天空置换算法](https://mp.weixin.qq.com/s/bUVvafODJfqDHXWXhDxVhA)
   * [手残党抠图有救了！](https://mp.weixin.qq.com/s/UFdj4Utyoa6rySYy1qVl8Q)
-  * [为艺术而生的惊艳算法](https://mp.weixin.qq.com/s/BnuNQYk4AXbyQpZFwu02qg)
+  * :star:[为艺术而生的惊艳算法](https://mp.weixin.qq.com/s/BnuNQYk4AXbyQpZFwu02qg)
   * [「完美复刻」的人物肖像画生成](https://mp.weixin.qq.com/s/FoFgkCxMhwxjGieCe8Rg2A)
   * [带你「周游世界」的 MODNet 算法](https://mp.weixin.qq.com/s/kkM75PH-0Dtw4xCdgmTQdg)
   * [川普的退休生活，AI 宅舞很专业。](https://mp.weixin.qq.com/s/p5dPfSOOVWsEor6X-hBSkA)
-  * [用自己训练的AI玩王者荣耀是什么体验？](https://mp.weixin.qq.com/s/mj8PG-wRqSbEIR38fongHA)
+  * :star:[用自己训练的AI玩王者荣耀是什么体验？](https://mp.weixin.qq.com/s/mj8PG-wRqSbEIR38fongHA)
   * [人脸编辑再得一分，牛逼！](https://mp.weixin.qq.com/s/KA7ZsxDSHGoItTdFcdx87Q)
 * 囧事人生
   * [打工人的薪资倒挂](https://mp.weixin.qq.com/s/qLx8nevYEJnEwnJQq44zYA)
@@ -75,17 +75,17 @@
   * [2020年的最后一个月](https://mp.weixin.qq.com/s/_UHkY81-e4fG2TANhvYVag)
   * [第一次进抢救室](https://mp.weixin.qq.com/s/HAfUd704CrAPt8FR9r2IYg)
   * [我在哥大读博的五年，万字总结](https://mp.weixin.qq.com/s/t1TGRRDgicEnBHxXE359fQ)
-  * [我，这一年](https://mp.weixin.qq.com/s/GXLFOutCYRmOUHr8OA1J4A)
+  * :star:[我，这一年](https://mp.weixin.qq.com/s/GXLFOutCYRmOUHr8OA1J4A)
   * [晒晒年终奖](https://mp.weixin.qq.com/s/s8Yckc6NeEqxq_rIIWnttw)
 * Pytorch深度学习实战
-  * [Pytorch深度学习实战教程（一）：语义分割基础与环境搭建](https://mp.weixin.qq.com/s/KI-9z7FBjfoWfZK3PEPXJA)
+  * :star:[Pytorch深度学习实战教程（一）：语义分割基础与环境搭建](https://mp.weixin.qq.com/s/KI-9z7FBjfoWfZK3PEPXJA)
   * [Pytorch深度学习实战教程（二）：UNet语义分割网络](https://mp.weixin.qq.com/s/6tZVUbyEjLVewM8vGK9Zhw)
   * [Pytorch深度学习实战教程（三）：UNet模型训练](https://mp.weixin.qq.com/s/7FY77k3xtK-UyfoXpFXgBQ)
   * [Pytorch深度学习实战教程（四）：必知必会的炼丹法宝](https://mp.weixin.qq.com/s/RhvCeesbzAQmK0yv8D6LjQ)
   * [Pytorch深度学习实战教程（五）：今天，你垃圾分类了吗？](https://mp.weixin.qq.com/s/Yt2M-cjLdRgOowNNm2Ll8Q)
   * [Pytorch 深度学习实战教程（六）：仝卓自爆，快本打码。](https://mp.weixin.qq.com/s/za4DsGMcLZYCbTir9QFPKQ)
 * 网络爬虫
-  * [Python3 网络爬虫（一）：初识网络爬虫之夜探老王家](https://mp.weixin.qq.com/s/1rcq9RQYuAuHFg1w1j8HXg)
+  * :star:[Python3 网络爬虫（一）：初识网络爬虫之夜探老王家](https://mp.weixin.qq.com/s/1rcq9RQYuAuHFg1w1j8HXg)
   * [Python3 网络爬虫（二）：下载小说的正确姿势](https://mp.weixin.qq.com/s/5e2_r0QXUISVp9GdDsqbzg)
   * [Python3 网络爬虫（三）：漫画下载，动态加载、反爬虫这都不叫事！](https://mp.weixin.qq.com/s/wyS-OP04K3Vs9arSelRlyA)
   * [Python3 网络爬虫（四）：视频下载，那些事儿！](https://mp.weixin.qq.com/s/_geNA6Dwo4kx25X7trJzlg)
@@ -96,14 +96,14 @@
   * [Tensorflow实战（一）：打响深度学习的第一枪 – 手写数字识别（Tensorboard可视化）](https://cuijiahua.com/blog/2018/01/dl_4.html)
   * [Tensorflow实战（二）：Discuz验证码识别](https://cuijiahua.com/blog/2018/01/dl_5.html)
 * 机器学习实战
-  * [机器学习实战教程（一）：K-近邻算法（史诗级干货长文）](https://cuijiahua.com/blog/2017/11/ml_1_knn.html)
+  * :star:[机器学习实战教程（一）：K-近邻算法（史诗级干货长文）](https://cuijiahua.com/blog/2017/11/ml_1_knn.html)
   * [机器学习实战教程（二）：决策树基础篇之让我们从相亲说起](https://cuijiahua.com/blog/2017/11/ml_2_decision_tree_1.html)
   * [机器学习实战教程（三）：决策树实战篇之为自己配个隐形眼镜](https://cuijiahua.com/blog/2017/11/ml_3_decision_tree_2.html)
   * [机器学习实战教程（四）：朴素贝叶斯基础篇之言论过滤器](https://cuijiahua.com/blog/2017/11/ml_4_bayes_1.html)
   * [机器学习实战教程（五）：朴素贝叶斯实战篇之新浪新闻分类](https://cuijiahua.com/blog/2017/11/ml_5_bayes_2.html)
   * [机器学习实战教程（六）：Logistic回归基础篇之梯度上升算法](https://cuijiahua.com/blog/2017/11/ml_6_logistic_1.html)
   * [机器学习实战教程（七）：Logistic回归实战篇之预测病马死亡率](https://cuijiahua.com/blog/2017/11/ml_7_logistic_2.html)
-  * [机器学习实战教程（八）：支持向量机原理篇之手撕线性SVM](https://cuijiahua.com/blog/2017/11/ml_8_svm_1.html)
+  * :star:[机器学习实战教程（八）：支持向量机原理篇之手撕线性SVM](https://cuijiahua.com/blog/2017/11/ml_8_svm_1.html)
   * [机器学习实战教程（九）：支持向量机实战篇之再撕非线性SVM](https://cuijiahua.com/blog/2017/11/ml_9_svm_2.html)
   * [机器学习实战教程（十）：提升分类器性能利器-AdaBoost](https://cuijiahua.com/blog/2017/11/ml_10_adaboost.html)
   * [机器学习实战教程（十一）：线性回归基础篇之预测鲍鱼年龄](https://cuijiahua.com/blog/2017/11/ml_11_regression_1.html)
@@ -122,7 +122,7 @@
 * 其他
   * [代码已开源，一起魔改大西瓜！](https://mp.weixin.qq.com/s/6MzJkehRr4BKVKSnsqpMxA)
 * 学习资料
-  * [电子书&视频](https://github.com/Jack-Cherish/awesome-cs-books)
+  * :star:[电子书&视频](https://github.com/Jack-Cherish/awesome-cs-books)
   * [16张让你编程能力突飞猛进的代码速查表](https://mp.weixin.qq.com/s/Lz0JbKTiiRlBtiMBZ-7cnA)
   
 更多内容，敬请期待！
