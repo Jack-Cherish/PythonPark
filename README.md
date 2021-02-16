@@ -27,14 +27,11 @@
 注：文章正在逐渐完善，持续更新中，敬请期待！
 * 最新内容（实时更新）
   * [B站优质视频资源推荐，起飞！](https://mp.weixin.qq.com/s/iL9XzJWsCt0s2VEiya_ycA)
-  * [我在哥大读博的五年，万字总结](https://mp.weixin.qq.com/s/t1TGRRDgicEnBHxXE359fQ)
-
 * 学习路线
   * [我是如何成为算法工程师的，超详细的学习路线](https://mp.weixin.qq.com/s/xUaFSdIMRI11agwwUUK2oA)
   * [B站优质视频资源推荐，起飞！](https://mp.weixin.qq.com/s/iL9XzJWsCt0s2VEiya_ycA)
   * [别再折腾开发环境了，一劳永逸的搭建方法](https://mp.weixin.qq.com/s/ghKGVutz9RQ4fMGJDHWtww)
   * [助你编程能力「突飞猛进」的干货分享](https://mp.weixin.qq.com/s/viVP4oNLgDLLUz3sT3Djew)
-  * 更新中...
 * 视频
   * [程序员必备的8个学习网站，再也不用交智商税了](https://www.bilibili.com/video/BV1oC4y147S2)
   * [计算机应届毕业生薪资有多高？算法工程师面试贴心指南](https://www.bilibili.com/video/BV1DZ4y1T7oq)
@@ -42,7 +39,6 @@
   * [AI复活明朝历代皇帝，来一场穿越时空的对话！](https://www.bilibili.com/video/BV1B54y1R7nD)
   * [AI还原乾隆后妃样貌，延禧攻略众生相。](https://www.bilibili.com/video/BV1h54y1z7Ds)
   * [6分钟带你回顾2020年高能的AI算法](https://www.bilibili.com/video/BV1kf4y1C7LR)
-  * 更新中...
 * 数据结构与算法基础
   * [程序员内功：八大排序算法](https://cuijiahua.com/blog/2018/01/alogrithm_9.html)
   * [算法基础：BFS和DFS的直观解释](https://cuijiahua.com/blog/2018/01/alogrithm_10.html)
@@ -51,12 +47,10 @@
   * [秋招在即，你准备好了吗？](https://mp.weixin.qq.com/s/tSnqXI2h_R5Ag34T0h-zZg)
   * [春招视觉算法实习面经](https://cuijiahua.com/blog/2019/11/life-52.html)
   * [成功上岸阿里，深度学习知识考点总结](https://mp.weixin.qq.com/s/5LbcPsffKr_1qCEWlTrgRQ)
-  * 更新中...
 * AI 基础
   * [保姆级GPU白嫖攻略](https://mp.weixin.qq.com/s/zYU3RY6dgH4pCWyW-WCRwQ)
   * [「修炼开始」一文带你入门深度学习](https://mp.weixin.qq.com/s/ABvmPbFU9XfkOWj42Tv9jQ)
   * [保姆级教程：硬核图解Transformer](https://mp.weixin.qq.com/s/jx-2Ai2YKbwODW6uJaF3hQ)
-  * 更新中...
 * AI 实验室
   * [百变人脸，趣味容颜，ALAE 人脸玩出新高度！](https://mp.weixin.qq.com/s/9C8OY7bchZNfqUCFSFuhjQ)
   * [你的红色高跟鞋，AI 换脸技术初体验](https://mp.weixin.qq.com/s/5kIN2Da-Bw-furkG-_N9nA)
@@ -76,7 +70,6 @@
   * [川普的退休生活，AI 宅舞很专业。](https://mp.weixin.qq.com/s/p5dPfSOOVWsEor6X-hBSkA)
   * [用自己训练的AI玩王者荣耀是什么体验？](https://mp.weixin.qq.com/s/mj8PG-wRqSbEIR38fongHA)
   * [人脸编辑再得一分，牛逼！](https://mp.weixin.qq.com/s/KA7ZsxDSHGoItTdFcdx87Q)
-  * 更新ing...
 * 囧事人生
   * [打工人的薪资倒挂](https://mp.weixin.qq.com/s/qLx8nevYEJnEwnJQq44zYA)
   * [个人网站没落了？](https://mp.weixin.qq.com/s/sum2v1iTokWPaxiNEZCtxg)
@@ -86,7 +79,6 @@
   * [我在哥大读博的五年，万字总结](https://mp.weixin.qq.com/s/t1TGRRDgicEnBHxXE359fQ)
   * [我，这一年](https://mp.weixin.qq.com/s/GXLFOutCYRmOUHr8OA1J4A)
   * [晒晒年终奖](https://mp.weixin.qq.com/s/s8Yckc6NeEqxq_rIIWnttw)
-  * 更新ing...
 * Pytorch深度学习实战
   * [Pytorch深度学习实战教程（一）：语义分割基础与环境搭建](https://mp.weixin.qq.com/s/KI-9z7FBjfoWfZK3PEPXJA)
   * [Pytorch深度学习实战教程（二）：UNet语义分割网络](https://mp.weixin.qq.com/s/6tZVUbyEjLVewM8vGK9Zhw)
@@ -94,7 +86,6 @@
   * [Pytorch深度学习实战教程（四）：必知必会的炼丹法宝](https://mp.weixin.qq.com/s/RhvCeesbzAQmK0yv8D6LjQ)
   * [Pytorch深度学习实战教程（五）：今天，你垃圾分类了吗？](https://mp.weixin.qq.com/s/Yt2M-cjLdRgOowNNm2Ll8Q)
   * [Pytorch 深度学习实战教程（六）：仝卓自爆，快本打码。](https://mp.weixin.qq.com/s/za4DsGMcLZYCbTir9QFPKQ)
-  * 更新ing...
 * 网络爬虫
   * [Python3 网络爬虫（一）：初识网络爬虫之夜探老王家](https://mp.weixin.qq.com/s/1rcq9RQYuAuHFg1w1j8HXg)
   * [Python3 网络爬虫（二）：下载小说的正确姿势](https://mp.weixin.qq.com/s/5e2_r0QXUISVp9GdDsqbzg)
@@ -103,7 +94,6 @@
   * [Python3 网络爬虫（五）：老板，需要特殊服务吗？](https://mp.weixin.qq.com/s/PPTSnIHV71b-wB3oRiYnIA)
   * [Python3 网络爬虫（六）：618，爱他/她，就清空他/她的购物车！](https://mp.weixin.qq.com/s/lXXDfzyLVrf3f-aqJN1C3A)
   * [宝藏B站UP主，视频弹幕尽收囊中！](https://mp.weixin.qq.com/s/aWratg1j9RBAjIghoY66yQ)
-  * 更新ing...
 * Tensorflow深度学习实战
   * [Tensorflow实战（一）：打响深度学习的第一枪 – 手写数字识别（Tensorboard可视化）](https://cuijiahua.com/blog/2018/01/dl_4.html)
   * [Tensorflow实战（二）：Discuz验证码识别](https://cuijiahua.com/blog/2018/01/dl_5.html)
@@ -129,6 +119,10 @@
   * [深度学习实战教程(五)：循环神经网络](https://cuijiahua.com/blog/2018/12/dl-11.html)
   * [深度学习实战教程(六)：长短时记忆网络(LSTM)](https://cuijiahua.com/blog/2019/01/dl-12.html)
   * [深度学习实战教程(七)：递归神经网络](https://cuijiahua.com/blog/2019/02/dl-13.html)
+* 工具
+  * [保姆级Git入门教程，万字详解](https://mp.weixin.qq.com/s/2eA7VfHDd0MRGz_YgVrbiw)
+* 其他
+  * [代码已开源，一起魔改大西瓜！](https://mp.weixin.qq.com/s/6MzJkehRr4BKVKSnsqpMxA)
 * 学习资料
   * [电子书&视频](https://github.com/Jack-Cherish/awesome-cs-books)
   * [16张让你编程能力突飞猛进的代码速查表](https://mp.weixin.qq.com/s/Lz0JbKTiiRlBtiMBZ-7cnA)
