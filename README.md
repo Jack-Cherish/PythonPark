@@ -24,7 +24,7 @@
 
 # 目录（善用Ctrl+F）
 
-注：带有:star:的为**高人气必看经典**，还有:rocket:的为**最新更新**。
+注：:star:为**高人气必看经典**，:rocket:为**最新更新**。
 * 学习路线
   * :star:[我是如何成为算法工程师的，超详细的学习路线](https://mp.weixin.qq.com/s/xUaFSdIMRI11agwwUUK2oA)
   * :star:[B站优质视频资源推荐，起飞！](https://mp.weixin.qq.com/s/iL9XzJWsCt0s2VEiya_ycA)
