@@ -70,6 +70,7 @@
   * :star:[用自己训练的AI玩王者荣耀是什么体验？](https://mp.weixin.qq.com/s/mj8PG-wRqSbEIR38fongHA)
   * [人脸编辑再得一分，牛逼！](https://mp.weixin.qq.com/s/KA7ZsxDSHGoItTdFcdx87Q)
   * [二次元的正确打开方式](https://mp.weixin.qq.com/s/dsI4wyRddYzmZoZrg1oV6w)
+  * :rocket:[用AI玩55款经典游戏是什么体验？](https://mp.weixin.qq.com/s/Hu2WYXQqMg1BGDUmm2PvIw)
 * 囧事人生
   * [打工人的薪资倒挂](https://mp.weixin.qq.com/s/qLx8nevYEJnEwnJQq44zYA)
   * [个人网站没落了？](https://mp.weixin.qq.com/s/sum2v1iTokWPaxiNEZCtxg)
