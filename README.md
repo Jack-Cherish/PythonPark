@@ -80,6 +80,7 @@
   * [我在哥大读博的五年，万字总结](https://mp.weixin.qq.com/s/t1TGRRDgicEnBHxXE359fQ)
   * :star:[我，这一年](https://mp.weixin.qq.com/s/GXLFOutCYRmOUHr8OA1J4A)
   * [晒晒年终奖](https://mp.weixin.qq.com/s/s8Yckc6NeEqxq_rIIWnttw)
+  * :star:[我，从高考到程序员的成长之路](https://mp.weixin.qq.com/s/5RAX2qCM2TX-8tyMRpPuQA)
 * Pytorch深度学习实战
   * :star:[Pytorch深度学习实战教程（一）：语义分割基础与环境搭建](https://mp.weixin.qq.com/s/KI-9z7FBjfoWfZK3PEPXJA)
   * [Pytorch深度学习实战教程（二）：UNet语义分割网络](https://mp.weixin.qq.com/s/6tZVUbyEjLVewM8vGK9Zhw)
