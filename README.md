@@ -37,19 +37,21 @@
   * [AI复活明朝历代皇帝，来一场穿越时空的对话！](https://www.bilibili.com/video/BV1B54y1R7nD)
   * :star:[AI还原乾隆后妃样貌，延禧攻略众生相。](https://www.bilibili.com/video/BV1h54y1z7Ds)
   * :star:[6分钟带你回顾2020年高能的AI算法](https://www.bilibili.com/video/BV1kf4y1C7LR)
-  * :rocket:[保姆级人工智能学习路线，谁都能玩的AI算法！](https://www.bilibili.com/video/BV1Ry4y1h7Kd)
+  * [保姆级人工智能学习路线，谁都能玩的AI算法！](https://www.bilibili.com/video/BV1Ry4y1h7Kd)
 * 数据结构与算法基础
   * [程序员内功：八大排序算法](https://cuijiahua.com/blog/2018/01/alogrithm_9.html)
   * [算法基础：BFS和DFS的直观解释](https://cuijiahua.com/blog/2018/01/alogrithm_10.html)
   * [剑指Offer系列刷题笔记汇总](https://cuijiahua.com/blog/2018/02/basis_67.html)
+  * [我收藏的谷歌和阿里大佬的刷题笔记](https://mp.weixin.qq.com/s/PZQfV0fh4E-qQv9Ox7EG4Q)
 * 算法面经
   * [秋招在即，你准备好了吗？](https://mp.weixin.qq.com/s/tSnqXI2h_R5Ag34T0h-zZg)
   * [春招视觉算法实习面经](https://cuijiahua.com/blog/2019/11/life-52.html)
   * [成功上岸阿里，深度学习知识考点总结](https://mp.weixin.qq.com/s/5LbcPsffKr_1qCEWlTrgRQ)
 * AI 基础
   * [保姆级GPU白嫖攻略](https://mp.weixin.qq.com/s/zYU3RY6dgH4pCWyW-WCRwQ)
-  * [「修炼开始」一文带你入门深度学习](https://mp.weixin.qq.com/s/ABvmPbFU9XfkOWj42Tv9jQ)
+  * :star:[「修炼开始」一文带你入门深度学习](https://mp.weixin.qq.com/s/ABvmPbFU9XfkOWj42Tv9jQ)
   * [保姆级教程：硬核图解Transformer](https://mp.weixin.qq.com/s/jx-2Ai2YKbwODW6uJaF3hQ)
+  * :star:[Pytorch小抄宝典！](https://mp.weixin.qq.com/s/Bzt40iJRcKIHqeiQZ733uQ)
 * AI 实验室
   * [百变人脸，趣味容颜，ALAE 人脸玩出新高度！](https://mp.weixin.qq.com/s/9C8OY7bchZNfqUCFSFuhjQ)
   * :star:[你的红色高跟鞋，AI 换脸技术初体验](https://mp.weixin.qq.com/s/5kIN2Da-Bw-furkG-_N9nA)
@@ -81,6 +83,7 @@
   * :star:[我，这一年](https://mp.weixin.qq.com/s/GXLFOutCYRmOUHr8OA1J4A)
   * [晒晒年终奖](https://mp.weixin.qq.com/s/s8Yckc6NeEqxq_rIIWnttw)
   * :star:[我，从高考到程序员的成长之路](https://mp.weixin.qq.com/s/5RAX2qCM2TX-8tyMRpPuQA)
+  * :star:[996被建议监管！](https://mp.weixin.qq.com/s/J0Oq0LM0uo_kVigRWpHkRw)
 * Pytorch深度学习实战
   * :star:[Pytorch深度学习实战教程（一）：语义分割基础与环境搭建](https://mp.weixin.qq.com/s/KI-9z7FBjfoWfZK3PEPXJA)
   * [Pytorch深度学习实战教程（二）：UNet语义分割网络](https://mp.weixin.qq.com/s/6tZVUbyEjLVewM8vGK9Zhw)
