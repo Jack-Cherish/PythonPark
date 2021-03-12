@@ -72,7 +72,7 @@
   * :star:[用自己训练的AI玩王者荣耀是什么体验？](https://mp.weixin.qq.com/s/mj8PG-wRqSbEIR38fongHA)
   * [人脸编辑再得一分，牛逼！](https://mp.weixin.qq.com/s/KA7ZsxDSHGoItTdFcdx87Q)
   * [二次元的正确打开方式](https://mp.weixin.qq.com/s/dsI4wyRddYzmZoZrg1oV6w)
-  * :rocket:[用AI玩55款经典游戏是什么体验？](https://mp.weixin.qq.com/s/Hu2WYXQqMg1BGDUmm2PvIw)
+  * [用AI玩55款经典游戏是什么体验？](https://mp.weixin.qq.com/s/Hu2WYXQqMg1BGDUmm2PvIw)
 * 囧事人生
   * [打工人的薪资倒挂](https://mp.weixin.qq.com/s/qLx8nevYEJnEwnJQq44zYA)
   * [个人网站没落了？](https://mp.weixin.qq.com/s/sum2v1iTokWPaxiNEZCtxg)
@@ -83,7 +83,7 @@
   * :star:[我，这一年](https://mp.weixin.qq.com/s/GXLFOutCYRmOUHr8OA1J4A)
   * [晒晒年终奖](https://mp.weixin.qq.com/s/s8Yckc6NeEqxq_rIIWnttw)
   * :star:[我，从高考到程序员的成长之路](https://mp.weixin.qq.com/s/5RAX2qCM2TX-8tyMRpPuQA)
-  * :star:[996被建议监管！](https://mp.weixin.qq.com/s/J0Oq0LM0uo_kVigRWpHkRw)
+  * :rocket:[996被建议监管！](https://mp.weixin.qq.com/s/J0Oq0LM0uo_kVigRWpHkRw)
 * Pytorch深度学习实战
   * :star:[Pytorch深度学习实战教程（一）：语义分割基础与环境搭建](https://mp.weixin.qq.com/s/KI-9z7FBjfoWfZK3PEPXJA)
   * [Pytorch深度学习实战教程（二）：UNet语义分割网络](https://mp.weixin.qq.com/s/6tZVUbyEjLVewM8vGK9Zhw)
