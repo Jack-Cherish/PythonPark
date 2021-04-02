@@ -52,6 +52,7 @@
   * :star:[「修炼开始」一文带你入门深度学习](https://mp.weixin.qq.com/s/ABvmPbFU9XfkOWj42Tv9jQ)
   * [保姆级教程：硬核图解Transformer](https://mp.weixin.qq.com/s/jx-2Ai2YKbwODW6uJaF3hQ)
   * :star:[Pytorch小抄宝典！](https://mp.weixin.qq.com/s/Bzt40iJRcKIHqeiQZ733uQ)
+  * [万字长文，Pytorch60分钟闪电战](https://mp.weixin.qq.com/s/JzdaZuxX_Xga_iMef79g-g)
 * AI 实验室
   * [百变人脸，趣味容颜，ALAE 人脸玩出新高度！](https://mp.weixin.qq.com/s/9C8OY7bchZNfqUCFSFuhjQ)
   * :star:[你的红色高跟鞋，AI 换脸技术初体验](https://mp.weixin.qq.com/s/5kIN2Da-Bw-furkG-_N9nA)
@@ -85,7 +86,8 @@
   * [晒晒年终奖](https://mp.weixin.qq.com/s/s8Yckc6NeEqxq_rIIWnttw)
   * :star:[我，从高考到程序员的成长之路](https://mp.weixin.qq.com/s/5RAX2qCM2TX-8tyMRpPuQA)
   * [996被建议监管！](https://mp.weixin.qq.com/s/J0Oq0LM0uo_kVigRWpHkRw)
-  * :rocket:[我，差点上央视](https://mp.weixin.qq.com/s/tOgJ1cOdR-dXhOfBb4_gag)
+  * :star:[我，差点上央视](https://mp.weixin.qq.com/s/tOgJ1cOdR-dXhOfBb4_gag)
+  * :star:[选择](https://mp.weixin.qq.com/s/7jRzjuromm0t8tV6llHyOA)
 * Pytorch深度学习实战
   * :star:[Pytorch深度学习实战教程（一）：语义分割基础与环境搭建](https://mp.weixin.qq.com/s/KI-9z7FBjfoWfZK3PEPXJA)
   * [Pytorch深度学习实战教程（二）：UNet语义分割网络](https://mp.weixin.qq.com/s/6tZVUbyEjLVewM8vGK9Zhw)
@@ -128,6 +130,7 @@
   * [深度学习实战教程(七)：递归神经网络](https://cuijiahua.com/blog/2019/02/dl-13.html)
 * 工具
   * [保姆级Git入门教程，万字详解](https://mp.weixin.qq.com/s/2eA7VfHDd0MRGz_YgVrbiw)
+  * [提高国内访问Github速度的9种方法](https://mp.weixin.qq.com/s/3LfveCU2Hm7N6OnV3Gtx3Q)
 * 其他
   * [代码已开源，一起魔改大西瓜！](https://mp.weixin.qq.com/s/6MzJkehRr4BKVKSnsqpMxA)
 * 学习资料
