@@ -75,6 +75,7 @@
   * [二次元的正确打开方式](https://mp.weixin.qq.com/s/dsI4wyRddYzmZoZrg1oV6w)
   * [用AI玩55款经典游戏是什么体验？](https://mp.weixin.qq.com/s/Hu2WYXQqMg1BGDUmm2PvIw)
   * :star:[让猛男娇羞的AI算法](https://mp.weixin.qq.com/s/UJltI0jOTyN0Ofn_Uy1J_g)
+  * [你说，我画，AI工具人石锤](https://mp.weixin.qq.com/s/4LNAwEoGjH8YYbp2w8Z9Rg)
 * 囧事人生
   * [打工人的薪资倒挂](https://mp.weixin.qq.com/s/qLx8nevYEJnEwnJQq44zYA)
   * [个人网站没落了？](https://mp.weixin.qq.com/s/sum2v1iTokWPaxiNEZCtxg)
