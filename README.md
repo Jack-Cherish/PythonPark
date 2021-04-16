@@ -75,6 +75,7 @@
   * [用AI玩55款经典游戏是什么体验？](https://mp.weixin.qq.com/s/Hu2WYXQqMg1BGDUmm2PvIw)
   * :star:[让猛男娇羞的AI算法](https://mp.weixin.qq.com/s/UJltI0jOTyN0Ofn_Uy1J_g)
   * [你说，我画，AI工具人石锤](https://mp.weixin.qq.com/s/4LNAwEoGjH8YYbp2w8Z9Rg)
+  * [AI一键去纹身，还原明星「庐山真面目」](https://mp.weixin.qq.com/s/MRqHGSN9hfyGSs7idIe69g)
 * 囧事人生
   * [打工人的薪资倒挂](https://mp.weixin.qq.com/s/qLx8nevYEJnEwnJQq44zYA)
   * [个人网站没落了？](https://mp.weixin.qq.com/s/sum2v1iTokWPaxiNEZCtxg)
@@ -89,6 +90,7 @@
   * :star:[我，差点上央视](https://mp.weixin.qq.com/s/tOgJ1cOdR-dXhOfBb4_gag)
   * :star:[选择](https://mp.weixin.qq.com/s/7jRzjuromm0t8tV6llHyOA)
   * [我的算法能力是从什么时候开始突飞猛进的？](https://mp.weixin.qq.com/s/NreO6S6uX8fbvDbU5tvQ2Q)
+  * :star:[五年了](https://mp.weixin.qq.com/s/D4pkzwPgMQpUmbdmcZ_W7A)
 * Pytorch深度学习实战
   * :star:[Pytorch深度学习实战教程（一）：语义分割基础与环境搭建](https://mp.weixin.qq.com/s/KI-9z7FBjfoWfZK3PEPXJA)
   * [Pytorch深度学习实战教程（二）：UNet语义分割网络](https://mp.weixin.qq.com/s/6tZVUbyEjLVewM8vGK9Zhw)
