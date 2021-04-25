@@ -52,6 +52,7 @@
   * [保姆级教程：硬核图解Transformer](https://mp.weixin.qq.com/s/jx-2Ai2YKbwODW6uJaF3hQ)
   * :star:[Pytorch小抄宝典！](https://mp.weixin.qq.com/s/Bzt40iJRcKIHqeiQZ733uQ)
   * [万字长文，Pytorch60分钟闪电战](https://mp.weixin.qq.com/s/JzdaZuxX_Xga_iMef79g-g)
+  * [嘿，来聚个类！](https://mp.weixin.qq.com/s/oxB5icj8KOfFja8XTHf7jg)
 * AI 实验室
   * [百变人脸，趣味容颜，ALAE 人脸玩出新高度！](https://mp.weixin.qq.com/s/9C8OY7bchZNfqUCFSFuhjQ)
   * :star:[你的红色高跟鞋，AI 换脸技术初体验](https://mp.weixin.qq.com/s/5kIN2Da-Bw-furkG-_N9nA)
