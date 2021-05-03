@@ -93,6 +93,7 @@
   * [我的算法能力是从什么时候开始突飞猛进的？](https://mp.weixin.qq.com/s/NreO6S6uX8fbvDbU5tvQ2Q)
   * :star:[五年了](https://mp.weixin.qq.com/s/D4pkzwPgMQpUmbdmcZ_W7A)
   * [印度疫情，爆炸！](https://mp.weixin.qq.com/s/pjKdwF725KTphixhtNAb4w)
+  * [聊聊我今年的计划](https://mp.weixin.qq.com/s/yHTq3M5zVGceCUDTG2Mp-g)
 * Pytorch深度学习实战
   * :star:[Pytorch深度学习实战教程（一）：语义分割基础与环境搭建](https://mp.weixin.qq.com/s/KI-9z7FBjfoWfZK3PEPXJA)
   * [Pytorch深度学习实战教程（二）：UNet语义分割网络](https://mp.weixin.qq.com/s/6tZVUbyEjLVewM8vGK9Zhw)
