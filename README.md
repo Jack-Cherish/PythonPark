@@ -37,6 +37,7 @@
   * :star:[AI还原乾隆后妃样貌，延禧攻略众生相。](https://www.bilibili.com/video/BV1h54y1z7Ds)
   * :star:[6分钟带你回顾2020年高能的AI算法](https://www.bilibili.com/video/BV1kf4y1C7LR)
   * [保姆级人工智能学习路线，谁都能玩的AI算法！](https://www.bilibili.com/video/BV1Ry4y1h7Kd)
+  * :rocket:[https://www.bilibili.com/video/BV1sq4y1J766](https://www.bilibili.com/video/BV1sq4y1J766)
 * 数据结构与算法基础
   * [程序员内功：八大排序算法](https://cuijiahua.com/blog/2018/01/alogrithm_9.html)
   * [算法基础：BFS和DFS的直观解释](https://cuijiahua.com/blog/2018/01/alogrithm_10.html)
