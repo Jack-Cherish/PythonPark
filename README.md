@@ -115,7 +115,7 @@
   * [Tensorflow实战（一）：打响深度学习的第一枪 – 手写数字识别（Tensorboard可视化）](https://cuijiahua.com/blog/2018/01/dl_4.html)
   * [Tensorflow实战（二）：Discuz验证码识别](https://cuijiahua.com/blog/2018/01/dl_5.html)
 * 机器学习实战
-  * :star:[机器学习实战教程（一）：K-近邻算法（史诗级干货长文）](https://cuijiahua.com/blog/2017/11/ml_1_knn.html)
+  * :star:[机器学习实战教程（一）：K-近邻算法（史诗级干货长文）](https://mp.weixin.qq.com/s/ymbwdQL_aSHVjgOZ9RG63Q)
   * [机器学习实战教程（二）：决策树基础篇之让我们从相亲说起](https://cuijiahua.com/blog/2017/11/ml_2_decision_tree_1.html)
   * [机器学习实战教程（三）：决策树实战篇之为自己配个隐形眼镜](https://cuijiahua.com/blog/2017/11/ml_3_decision_tree_2.html)
   * [机器学习实战教程（四）：朴素贝叶斯基础篇之言论过滤器](https://cuijiahua.com/blog/2017/11/ml_4_bayes_1.html)
