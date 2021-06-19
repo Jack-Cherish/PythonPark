@@ -158,7 +158,8 @@
 
 <!--![image](http://photos.cuijiahua.com/github/dt.jpg)-->
 <!--![image](https://ftp.bmp.ovh/imgs/2021/01/1d5ded7f914607ec.jpg)-->
-![image](https://raw.githubusercontent.com/Jack-Cherish/PythonPark/master/images/dt.jpg)
+<!-- ![image](https://raw.githubusercontent.com/Jack-Cherish/PythonPark/master/images/dt.jpg) -->
+[image](http://photos.cuijiahua.com/python_lujing.png)
 
 <a name="微信"></a>  <a name="公众号"></a>
 
