@@ -82,6 +82,7 @@
   * [你说，我画，AI工具人石锤](https://mp.weixin.qq.com/s/4LNAwEoGjH8YYbp2w8Z9Rg)
   * [AI一键去纹身，还原明星「庐山真面目」](https://mp.weixin.qq.com/s/MRqHGSN9hfyGSs7idIe69g)
   * [火了？](https://mp.weixin.qq.com/s/u-j-7VnK175LThOfgY3zvQ)
+  * [AI算法，整新活！](https://mp.weixin.qq.com/s/AZBifUHLSDLWBZGF3QMqPw)
 * 囧事人生
   * [打工人的薪资倒挂](https://mp.weixin.qq.com/s/qLx8nevYEJnEwnJQq44zYA)
   * [个人网站没落了？](https://mp.weixin.qq.com/s/sum2v1iTokWPaxiNEZCtxg)
