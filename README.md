@@ -103,6 +103,7 @@
   * [聊聊我今年的计划](https://mp.weixin.qq.com/s/yHTq3M5zVGceCUDTG2Mp-g)
   * [计算机专业读研三年，到底值不值！](https://mp.weixin.qq.com/s/inujUalpJGd5I0CBkX9frQ)
   * [我被"制裁"了！](https://mp.weixin.qq.com/s/gDAX3Y6OoMYbi0Y3Hx3TrQ)
+  * [36525个日夜！](https://mp.weixin.qq.com/s/6FeZNMN_r1VhLiOP5aRUiQ)
 * Pytorch深度学习实战
   * :star:[Pytorch深度学习实战教程（一）：语义分割基础与环境搭建](https://mp.weixin.qq.com/s/KI-9z7FBjfoWfZK3PEPXJA)
   * [Pytorch深度学习实战教程（二）：UNet语义分割网络](https://mp.weixin.qq.com/s/6tZVUbyEjLVewM8vGK9Zhw)
