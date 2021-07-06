@@ -45,10 +45,6 @@
   * [算法基础：BFS和DFS的直观解释](https://cuijiahua.com/blog/2018/01/alogrithm_10.html)
   * [剑指Offer系列刷题笔记汇总](https://cuijiahua.com/blog/2018/02/basis_67.html)
   * [我收藏的谷歌和阿里大佬的刷题笔记](https://mp.weixin.qq.com/s/PZQfV0fh4E-qQv9Ox7EG4Q)
-* 算法面经
-  * [秋招在即，你准备好了吗？](https://mp.weixin.qq.com/s/tSnqXI2h_R5Ag34T0h-zZg)
-  * [春招视觉算法实习面经](https://cuijiahua.com/blog/2019/11/life-52.html)
-  * [成功上岸阿里，深度学习知识考点总结](https://mp.weixin.qq.com/s/5LbcPsffKr_1qCEWlTrgRQ)
 * AI 基础
   * [保姆级GPU白嫖攻略](https://mp.weixin.qq.com/s/zYU3RY6dgH4pCWyW-WCRwQ)
   * :star:[「修炼开始」一文带你入门深度学习](https://mp.weixin.qq.com/s/ABvmPbFU9XfkOWj42Tv9jQ)
@@ -104,6 +100,8 @@
   * [计算机专业读研三年，到底值不值！](https://mp.weixin.qq.com/s/inujUalpJGd5I0CBkX9frQ)
   * [我被"制裁"了！](https://mp.weixin.qq.com/s/gDAX3Y6OoMYbi0Y3Hx3TrQ)
   * [36525个日夜！](https://mp.weixin.qq.com/s/6FeZNMN_r1VhLiOP5aRUiQ)
+* 量化交易
+  * [日入上万，Jack 年入百万？](https://mp.weixin.qq.com/s/TnyJOHdl4ejunYVXFxIe5Q)
 * Pytorch深度学习实战
   * :star:[Pytorch深度学习实战教程（一）：语义分割基础与环境搭建](https://mp.weixin.qq.com/s/KI-9z7FBjfoWfZK3PEPXJA)
   * [Pytorch深度学习实战教程（二）：UNet语义分割网络](https://mp.weixin.qq.com/s/6tZVUbyEjLVewM8vGK9Zhw)
@@ -144,6 +142,10 @@
   * [深度学习实战教程(五)：循环神经网络](https://cuijiahua.com/blog/2018/12/dl-11.html)
   * [深度学习实战教程(六)：长短时记忆网络(LSTM)](https://cuijiahua.com/blog/2019/01/dl-12.html)
   * [深度学习实战教程(七)：递归神经网络](https://cuijiahua.com/blog/2019/02/dl-13.html)
+* 算法面经
+  * [秋招在即，你准备好了吗？](https://mp.weixin.qq.com/s/tSnqXI2h_R5Ag34T0h-zZg)
+  * [春招视觉算法实习面经](https://cuijiahua.com/blog/2019/11/life-52.html)
+  * [成功上岸阿里，深度学习知识考点总结](https://mp.weixin.qq.com/s/5LbcPsffKr_1qCEWlTrgRQ)
 * 工具
   * [保姆级Git入门教程，万字详解](https://mp.weixin.qq.com/s/2eA7VfHDd0MRGz_YgVrbiw)
   * [提高国内访问Github速度的9种方法](https://mp.weixin.qq.com/s/3LfveCU2Hm7N6OnV3Gtx3Q)
