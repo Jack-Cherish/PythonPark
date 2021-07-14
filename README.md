@@ -100,6 +100,7 @@
   * [计算机专业读研三年，到底值不值！](https://mp.weixin.qq.com/s/inujUalpJGd5I0CBkX9frQ)
   * [我被"制裁"了！](https://mp.weixin.qq.com/s/gDAX3Y6OoMYbi0Y3Hx3TrQ)
   * [36525个日夜！](https://mp.weixin.qq.com/s/6FeZNMN_r1VhLiOP5aRUiQ)
+  * [对算法工程师的一些误会](https://mp.weixin.qq.com/s/76xmkDd790nsesequDq9hQ)
 * 量化交易
   * [日入上万，Jack 年入百万？](https://mp.weixin.qq.com/s/TnyJOHdl4ejunYVXFxIe5Q)
 * Pytorch深度学习实战
@@ -146,6 +147,7 @@
   * [秋招在即，你准备好了吗？](https://mp.weixin.qq.com/s/tSnqXI2h_R5Ag34T0h-zZg)
   * [春招视觉算法实习面经](https://cuijiahua.com/blog/2019/11/life-52.html)
   * [成功上岸阿里，深度学习知识考点总结](https://mp.weixin.qq.com/s/5LbcPsffKr_1qCEWlTrgRQ)
+  * [秀 offer](https://mp.weixin.qq.com/s/N8X8XakXFaLWrwsVwFBs8g)
 * 工具
   * [保姆级Git入门教程，万字详解](https://mp.weixin.qq.com/s/2eA7VfHDd0MRGz_YgVrbiw)
   * [提高国内访问Github速度的9种方法](https://mp.weixin.qq.com/s/3LfveCU2Hm7N6OnV3Gtx3Q)
