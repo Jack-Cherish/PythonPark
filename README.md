@@ -101,6 +101,7 @@
   * [我被"制裁"了！](https://mp.weixin.qq.com/s/gDAX3Y6OoMYbi0Y3Hx3TrQ)
   * [36525个日夜！](https://mp.weixin.qq.com/s/6FeZNMN_r1VhLiOP5aRUiQ)
   * [对算法工程师的一些误会](https://mp.weixin.qq.com/s/76xmkDd790nsesequDq9hQ)
+  * [11亿，牛逼！我也捐了一点点。。](https://mp.weixin.qq.com/s/ACP9qV_ITfSBMwtpyDbk-Q)
 * 量化交易
   * [日入上万，Jack 年入百万？](https://mp.weixin.qq.com/s/TnyJOHdl4ejunYVXFxIe5Q)
 * Pytorch深度学习实战
