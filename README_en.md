@@ -1,6 +1,6 @@
 Here is a paradise for learning Python, **nanny-level tutorial**: AI laboratory, treasure video, data structure, study guide, machine learning actual combat, deep learning actual combat, Python basics, web crawlers, big factory experience, program life, Resource sharing. **I will gradually improve it and continue to output!**
 
-At least two original articles per week, **Follow-up latest articles** will be first published on [[Official Account]](https://cuijiahua.com/wp-content/uploads/2020/05/gzh-w.jpg), The video [[Station B]](https://space.bilibili.com/331507846) is first released, you can add me [[WeChat]](https://cuijiahua.com/wp-content/uploads/2020/05/gzh-w.jpg) Enter the **communication group** for technical exchanges or comments, welcome **Star**!
+At least two original articles per week, **Follow-up latest articles** will be first published on [[Official Account]](https://cuijiahua.com/wp-content/uploads/2020/05/gzh-w.jpg), The video [[bilibili]](https://space.bilibili.com/331507846) is first released, you can add me [[WeChat]](https://cuijiahua.com/wp-content/uploads/2020/05/gzh-w.jpg) Enter the **communication group** for technical exchanges or comments, welcome **Star**!
 
 [Mind Map](#Mind-Map): See the end of the article.
 
@@ -13,13 +13,13 @@ At least two original articles per week, **Follow-up latest articles** will be f
 </p>
 
 <p align="center">
-  <a href="https://cuijiahua.com/wp-content/uploads/2020/05/gzh-w.jpg" target="_blank"><img src="https://img.shields.io/ badge/weChat-微信群-blue.svg" alt="微信群"></a>
-  <a href="https://cuijiahua.com/wp-content/uploads/2020/05/gzh-w.jpg" target="_blank"><img src="https://img.shields.io/ badge/%E5%85%AC%E4%BC%97%E5%8F%B7-Jack%20Cui-lightgrey.svg" alt="公号"></a>
-  <a href="https://space.bilibili.com/331507846"><img src="https://img.shields.io/badge/bilibili-哔哩哔哩-critical" alt="Station B" ></a>
-  <a href="https://www.zhihu.com/people/Jack--Cui" target="_blank"><img src="https://img.shields.io/badge/zhihu-知识- informational" alt="知就是"></a>
-  <a href="https://blog.csdn.net/c406495762" target="_blank"><img src="https://img.shields.io/badge/csdn-CSDN-red.svg" alt= "CSDN"></a>
-  <a href="https://www.toutiao.com/c/user/token/MS4wLjABAAAA5gJtmezUJ6vli2hZvnN13iLnzKLpuF8gGHeS0iVlmNs/" target="_blank"><img src="https://img.shields.io/badge/toutiao-% E5%A4%B4%E6%9D%A1-important.svg" alt="头条"></a>
-  <a href="https://juejin.im/user/5ea2ca74e51d4546b50d5f9f" target="_blank"><img src="https://img.shields.io/badge/juejin- Nuggets-blue.svg" alt ="Nuggets"></a>
+  <a href="https://cuijiahua.com/wp-content/uploads/2020/05/gzh-w.jpg" target="_blank"><img src="https://img.shields.io/badge/weChat-微信群-blue.svg" alt="微信群"></a>
+  <a href="https://cuijiahua.com/wp-content/uploads/2020/05/gzh-w.jpg" target="_blank"><img src="https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-Jack%20Cui-lightgrey.svg" alt="公众号"></a>
+  <a href="https://space.bilibili.com/331507846"><img src="https://img.shields.io/badge/bilibili-哔哩哔哩-critical" alt="B站"></a>
+  <a href="https://www.zhihu.com/people/Jack--Cui" target="_blank"><img src="https://img.shields.io/badge/zhihu-知乎-informational" alt="知乎"></a>
+  <a href="https://blog.csdn.net/c406495762" target="_blank"><img src="https://img.shields.io/badge/csdn-CSDN-red.svg" alt="CSDN"></a>
+  <a href="https://www.toutiao.com/c/user/token/MS4wLjABAAAA5gJtmezUJ6vli2hZvnN13iLnzKLpuF8gGHeS0iVlmNs/" target="_blank"><img src="https://img.shields.io/badge/toutiao-%E5%A4%B4%E6%9D%A1-important.svg" alt="头条"></a>
+  <a href="https://juejin.im/user/5ea2ca74e51d4546b50d5f9f" target="_blank"><img src="https://img.shields.io/badge/juejin-掘金-blue.svg" alt="掘金"></a>
 </p>
 
 # Directory (use Ctrl+F well)
