@@ -105,7 +105,8 @@
   * [36525个日夜！](https://mp.weixin.qq.com/s/6FeZNMN_r1VhLiOP5aRUiQ)
   * [对算法工程师的一些误会](https://mp.weixin.qq.com/s/76xmkDd790nsesequDq9hQ)
   * [11亿，牛逼！我也捐了一点点。。](https://mp.weixin.qq.com/s/ACP9qV_ITfSBMwtpyDbk-Q)
-  * :star:[我一年的坚持，值了！](https://mp.weixin.qq.com/s/WQyd3x3JLNLkPKckFNCLmA)
+  * [我一年的坚持，值了！](https://mp.weixin.qq.com/s/WQyd3x3JLNLkPKckFNCLmA)
+  * :star:[被裁了。。](https://mp.weixin.qq.com/s/lSE__8cfOcWJEFlKWqIdTQ)
 * 量化交易
   * [日入上万，Jack 年入百万？](https://mp.weixin.qq.com/s/TnyJOHdl4ejunYVXFxIe5Q)
 * Pytorch深度学习实战
@@ -160,6 +161,9 @@
   * [代码已开源，一起魔改大西瓜！](https://mp.weixin.qq.com/s/6MzJkehRr4BKVKSnsqpMxA)
   * [别再折腾开发环境了，一劳永逸的搭建方法](https://mp.weixin.qq.com/s/ghKGVutz9RQ4fMGJDHWtww)
   * [助你编程能力「突飞猛进」的干货分享](https://mp.weixin.qq.com/s/viVP4oNLgDLLUz3sT3Djew)
+* 练手项目
+  * [露一手，用Python写了一个疫苗管理系统！](https://mp.weixin.qq.com/s/3zpt6SnXqMkQ6eTIkdbBeA)
+  * [好家伙，花了一个月时间，用Python写了个网易云！](https://mp.weixin.qq.com/s/xsnwKL3rzvEIYdaXCE-6tA)
 * 学习资料
   * :star:[电子书&视频](https://github.com/Jack-Cherish/awesome-cs-books)
   * [16张让你编程能力突飞猛进的代码速查表](https://mp.weixin.qq.com/s/Lz0JbKTiiRlBtiMBZ-7cnA)
