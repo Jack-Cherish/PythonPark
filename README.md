@@ -107,6 +107,7 @@
   * [11亿，牛逼！我也捐了一点点。。](https://mp.weixin.qq.com/s/ACP9qV_ITfSBMwtpyDbk-Q)
   * [我一年的坚持，值了！](https://mp.weixin.qq.com/s/WQyd3x3JLNLkPKckFNCLmA)
   * :star:[被裁了。。](https://mp.weixin.qq.com/s/lSE__8cfOcWJEFlKWqIdTQ)
+  * [知名企业家车祸身亡，惨痛！自动驾驶？](https://mp.weixin.qq.com/s/-4Ia5RRnSAn59E3vq7r3wQ)
 * 量化交易
   * [日入上万，Jack 年入百万？](https://mp.weixin.qq.com/s/TnyJOHdl4ejunYVXFxIe5Q)
 * Pytorch深度学习实战
