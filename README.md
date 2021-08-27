@@ -42,7 +42,8 @@
   * [保姆级人工智能学习路线，谁都能玩的AI算法！](https://www.bilibili.com/video/BV1Ry4y1h7Kd)
   * [自学编程，那些让你事半功倍的学习方法！](https://www.bilibili.com/video/BV1sq4y1J766)
   * [Python学习指南：学习方法、路径图、资料都备齐了！](https://www.bilibili.com/video/BV1Sh411a76E)
-  * :rocket:[8分钟带你入门人工智能，互联网大厂都在用的高能AI算法](https://www.bilibili.com/video/BV1mM4y157ht)
+  * [8分钟带你入门人工智能，互联网大厂都在用的高能AI算法](https://www.bilibili.com/video/BV1mM4y157ht)
+  * :rocket:[【深度解析】多款AI游戏外挂，战斗力爆表，蚌埠住了！](https://www.bilibili.com/video/BV1aA411A7J9)
 * 数据结构与算法基础
   * [程序员内功：八大排序算法](https://cuijiahua.com/blog/2018/01/alogrithm_9.html)
   * [算法基础：BFS和DFS的直观解释](https://cuijiahua.com/blog/2018/01/alogrithm_10.html)
