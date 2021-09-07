@@ -44,6 +44,7 @@
   * [Python学习指南：学习方法、路径图、资料都备齐了！](https://www.bilibili.com/video/BV1Sh411a76E)
   * [8分钟带你入门人工智能，互联网大厂都在用的高能AI算法](https://www.bilibili.com/video/BV1mM4y157ht)
   * :rocket:[【深度解析】多款AI游戏外挂，战斗力爆表，蚌埠住了！](https://www.bilibili.com/video/BV1aA411A7J9)
+  * [真·躺着赚钱？写代码全自动炒股，五万元，半年后能赚多少？](https://www.bilibili.com/video/BV1Z44y1874X)
 * 数据结构与算法基础
   * [程序员内功：八大排序算法](https://cuijiahua.com/blog/2018/01/alogrithm_9.html)
   * [算法基础：BFS和DFS的直观解释](https://cuijiahua.com/blog/2018/01/alogrithm_10.html)
