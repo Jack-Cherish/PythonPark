@@ -85,6 +85,7 @@
   * [火了？](https://mp.weixin.qq.com/s/u-j-7VnK175LThOfgY3zvQ)
   * [AI算法，整新活！](https://mp.weixin.qq.com/s/AZBifUHLSDLWBZGF3QMqPw)
   * [我有一个很大胆的想法！](https://mp.weixin.qq.com/s/8cWD3HdtKqZfocvEm3v-8g)
+  * [好家伙，又火几个。。](https://mp.weixin.qq.com/s/zs92ccv6wMyJQrcw4pvPaw)
 * 囧事人生
   * [打工人的薪资倒挂](https://mp.weixin.qq.com/s/qLx8nevYEJnEwnJQq44zYA)
   * [个人网站没落了？](https://mp.weixin.qq.com/s/sum2v1iTokWPaxiNEZCtxg)
@@ -110,6 +111,7 @@
   * [我一年的坚持，值了！](https://mp.weixin.qq.com/s/WQyd3x3JLNLkPKckFNCLmA)
   * :star:[被裁了。。](https://mp.weixin.qq.com/s/lSE__8cfOcWJEFlKWqIdTQ)
   * [知名企业家车祸身亡，惨痛！自动驾驶？](https://mp.weixin.qq.com/s/-4Ia5RRnSAn59E3vq7r3wQ)
+  * [6k，啪，没了。。](https://mp.weixin.qq.com/s/-31qRqh5oX82s9z5uIvSow)
 * 量化交易
   * [日入上万，Jack 年入百万？](https://mp.weixin.qq.com/s/TnyJOHdl4ejunYVXFxIe5Q)
   * [B站热榜视频，炒股源码来了！](https://mp.weixin.qq.com/s/PdjkbTRMzuaxGogqh1pyow)
