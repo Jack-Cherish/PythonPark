@@ -33,6 +33,7 @@
   * [聊聊自学，我私藏的学习网站和工具](https://mp.weixin.qq.com/s/pW5tOPjdRSdln5PuKnqK3A)
   * [看书vs视频，我的一点小建议，共勉！](https://mp.weixin.qq.com/s/CpJjI2GnhF5fES8tY_4npA)
 * 视频
+  * [十分钟骗走五万五千元！AI声音模仿有多逼真？5秒钟克隆你的语音！](https://www.bilibili.com/video/BV16b4y1a7Dq)
   * [程序员必备的8个学习网站，再也不用交智商税了](https://www.bilibili.com/video/BV1oC4y147S2)
   * [计算机应届毕业生薪资有多高？算法工程师面试贴心指南](https://www.bilibili.com/video/BV1DZ4y1T7oq)
   * [AI人工智能技术还原康乾盛世三代皇帝样貌，竟然有点帅！](https://www.bilibili.com/video/BV1pV411S7ke)
@@ -86,6 +87,8 @@
   * [AI算法，整新活！](https://mp.weixin.qq.com/s/AZBifUHLSDLWBZGF3QMqPw)
   * [我有一个很大胆的想法！](https://mp.weixin.qq.com/s/8cWD3HdtKqZfocvEm3v-8g)
   * [好家伙，又火几个。。](https://mp.weixin.qq.com/s/zs92ccv6wMyJQrcw4pvPaw)
+  * [危！我用python克隆了女朋友的声音！](https://mp.weixin.qq.com/s/k7WwqzvFvUB6iOX-uZyRvw)
+  * [AI全自动钓鱼，原神游戏沦陷！（硬核开源）](https://mp.weixin.qq.com/s/zA1jnCS6o1UNPum_FoUQlg)
 * 囧事人生
   * [打工人的薪资倒挂](https://mp.weixin.qq.com/s/qLx8nevYEJnEwnJQq44zYA)
   * [个人网站没落了？](https://mp.weixin.qq.com/s/sum2v1iTokWPaxiNEZCtxg)
