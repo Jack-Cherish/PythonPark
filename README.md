@@ -33,7 +33,7 @@
   * [聊聊自学，我私藏的学习网站和工具](https://mp.weixin.qq.com/s/pW5tOPjdRSdln5PuKnqK3A)
   * [看书vs视频，我的一点小建议，共勉！](https://mp.weixin.qq.com/s/CpJjI2GnhF5fES8tY_4npA)
 * 视频
-  * [Python学习路线一条龙，保姆级教程，自学编程不迷茫！](https://www.bilibili.com/video/BV1Xf4y1j7Np)
+  * :rocket:[Python学习路线一条龙，保姆级教程，自学编程不迷茫！](https://www.bilibili.com/video/BV1Xf4y1j7Np)
   * [十分钟骗走五万五千元！AI声音模仿有多逼真？5秒钟克隆你的语音！](https://www.bilibili.com/video/BV16b4y1a7Dq)
   * [程序员必备的8个学习网站，再也不用交智商税了](https://www.bilibili.com/video/BV1oC4y147S2)
   * [计算机应届毕业生薪资有多高？算法工程师面试贴心指南](https://www.bilibili.com/video/BV1DZ4y1T7oq)
@@ -45,7 +45,7 @@
   * [自学编程，那些让你事半功倍的学习方法！](https://www.bilibili.com/video/BV1sq4y1J766)
   * [Python学习指南：学习方法、路径图、资料都备齐了！](https://www.bilibili.com/video/BV1Sh411a76E)
   * [8分钟带你入门人工智能，互联网大厂都在用的高能AI算法](https://www.bilibili.com/video/BV1mM4y157ht)
-  * :rocket:[【深度解析】多款AI游戏外挂，战斗力爆表，蚌埠住了！](https://www.bilibili.com/video/BV1aA411A7J9)
+  * [【深度解析】多款AI游戏外挂，战斗力爆表，蚌埠住了！](https://www.bilibili.com/video/BV1aA411A7J9)
   * [真·躺着赚钱？写代码全自动炒股，五万元，半年后能赚多少？](https://www.bilibili.com/video/BV1Z44y1874X)
 * 数据结构与算法基础
   * [程序员内功：八大排序算法](https://cuijiahua.com/blog/2018/01/alogrithm_9.html)
@@ -90,6 +90,7 @@
   * [好家伙，又火几个。。](https://mp.weixin.qq.com/s/zs92ccv6wMyJQrcw4pvPaw)
   * [危！我用python克隆了女朋友的声音！](https://mp.weixin.qq.com/s/k7WwqzvFvUB6iOX-uZyRvw)
   * [AI全自动钓鱼，原神游戏沦陷！（硬核开源）](https://mp.weixin.qq.com/s/zA1jnCS6o1UNPum_FoUQlg)
+  * :rocket:[LSP，强得离谱！](https://mp.weixin.qq.com/s/tyqHh3ywLcxiqT1e1rTFyg)
 * 囧事人生
   * [打工人的薪资倒挂](https://mp.weixin.qq.com/s/qLx8nevYEJnEwnJQq44zYA)
   * [个人网站没落了？](https://mp.weixin.qq.com/s/sum2v1iTokWPaxiNEZCtxg)
