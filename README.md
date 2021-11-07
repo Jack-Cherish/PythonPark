@@ -28,7 +28,7 @@
 
 注：:star:为**高人气必看经典**，:rocket:为**最新更新**。
 * 学习路线
-  * :star:[我是如何成为算法工程师的，超详细的学习路线](https://mp.weixin.qq.com/s/xUaFSdIMRI11agwwUUK2oA)
+  * [我是如何成为算法工程师的，超详细的学习路线](https://cuijiahua.com/blog/2020/10/life-73.html)
   * :star:[B站优质视频资源推荐，起飞！](https://mp.weixin.qq.com/s/iL9XzJWsCt0s2VEiya_ycA)
   * [聊聊自学，我私藏的学习网站和工具](https://mp.weixin.qq.com/s/pW5tOPjdRSdln5PuKnqK3A)
   * [看书vs视频，我的一点小建议，共勉！](https://mp.weixin.qq.com/s/CpJjI2GnhF5fES8tY_4npA)
@@ -92,6 +92,7 @@
   * [危！我用python克隆了女朋友的声音！](https://mp.weixin.qq.com/s/k7WwqzvFvUB6iOX-uZyRvw)
   * [AI全自动钓鱼，原神游戏沦陷！（硬核开源）](https://mp.weixin.qq.com/s/zA1jnCS6o1UNPum_FoUQlg)
   * :rocket:[LSP，强得离谱！](https://mp.weixin.qq.com/s/tyqHh3ywLcxiqT1e1rTFyg)
+  * [我家小孩，长这样？](https://mp.weixin.qq.com/s/zZ4x3tHjsHeWXIr0FMPCKw)
 * 囧事人生
   * [打工人的薪资倒挂](https://mp.weixin.qq.com/s/qLx8nevYEJnEwnJQq44zYA)
   * [个人网站没落了？](https://mp.weixin.qq.com/s/sum2v1iTokWPaxiNEZCtxg)
@@ -115,9 +116,11 @@
   * [对算法工程师的一些误会](https://mp.weixin.qq.com/s/76xmkDd790nsesequDq9hQ)
   * [11亿，牛逼！我也捐了一点点。。](https://mp.weixin.qq.com/s/ACP9qV_ITfSBMwtpyDbk-Q)
   * [我一年的坚持，值了！](https://mp.weixin.qq.com/s/WQyd3x3JLNLkPKckFNCLmA)
-  * :star:[被裁了。。](https://mp.weixin.qq.com/s/lSE__8cfOcWJEFlKWqIdTQ)
+  * [被裁了。。](https://mp.weixin.qq.com/s/lSE__8cfOcWJEFlKWqIdTQ)
   * [知名企业家车祸身亡，惨痛！自动驾驶？](https://mp.weixin.qq.com/s/-4Ia5RRnSAn59E3vq7r3wQ)
   * [6k，啪，没了。。](https://mp.weixin.qq.com/s/-31qRqh5oX82s9z5uIvSow)
+  * :star:[获奖了！](https://mp.weixin.qq.com/s/yG7P2o8yc-oDDVmgTxAdJg)
+  * 
 * 量化交易
   * [日入上万，Jack 年入百万？](https://mp.weixin.qq.com/s/TnyJOHdl4ejunYVXFxIe5Q)
   * [B站热榜视频，炒股源码来了！](https://mp.weixin.qq.com/s/PdjkbTRMzuaxGogqh1pyow)
@@ -170,6 +173,7 @@
 * 工具
   * [保姆级Git入门教程，万字详解](https://mp.weixin.qq.com/s/2eA7VfHDd0MRGz_YgVrbiw)
   * [提高国内访问Github速度的9种方法](https://mp.weixin.qq.com/s/3LfveCU2Hm7N6OnV3Gtx3Q)
+  * :star:[我的十八般武器，这波稳了！](https://mp.weixin.qq.com/s/2QWVRbH-_jJZINmem8WK-w)
 * 其他
   * [代码已开源，一起魔改大西瓜！](https://mp.weixin.qq.com/s/6MzJkehRr4BKVKSnsqpMxA)
   * [别再折腾开发环境了，一劳永逸的搭建方法](https://mp.weixin.qq.com/s/ghKGVutz9RQ4fMGJDHWtww)
