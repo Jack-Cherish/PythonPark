@@ -93,6 +93,9 @@
   * [AI全自动钓鱼，原神游戏沦陷！（硬核开源）](https://mp.weixin.qq.com/s/zA1jnCS6o1UNPum_FoUQlg)
   * :rocket:[LSP，强得离谱！](https://mp.weixin.qq.com/s/tyqHh3ywLcxiqT1e1rTFyg)
   * [我家小孩，长这样？](https://mp.weixin.qq.com/s/zZ4x3tHjsHeWXIr0FMPCKw)
+  * [这两个练手项目，我王多鱼投了！](https://mp.weixin.qq.com/s/eRm07pZIIuVz0rrt7-m4IQ)
+  * [这个项目，我能玩一年！](https://mp.weixin.qq.com/s/t3qOKkErm8ZbmKDOhHqCOA)
+  * [女娲算法，杀疯了！](https://mp.weixin.qq.com/s/4bbStKhARWC-iCP2MHcJFw)
 * 囧事人生
   * [打工人的薪资倒挂](https://mp.weixin.qq.com/s/qLx8nevYEJnEwnJQq44zYA)
   * [个人网站没落了？](https://mp.weixin.qq.com/s/sum2v1iTokWPaxiNEZCtxg)
