@@ -61,6 +61,7 @@
   * [万字长文，Pytorch60分钟闪电战](https://mp.weixin.qq.com/s/JzdaZuxX_Xga_iMef79g-g)
   * [嘿，来聚个类！](https://mp.weixin.qq.com/s/oxB5icj8KOfFja8XTHf7jg)
   * [硬核图解，再填猛将：YOLO详解](https://mp.weixin.qq.com/s/Mhsz9SwjquS7gzvLUNm8pQ)
+  * [我的，小金库！](https://mp.weixin.qq.com/s/ATDotohELBhpOVORW54_PQ)
 * AI 实验室
   * [百变人脸，趣味容颜，ALAE 人脸玩出新高度！](https://mp.weixin.qq.com/s/9C8OY7bchZNfqUCFSFuhjQ)
   * :star:[你的红色高跟鞋，AI 换脸技术初体验](https://mp.weixin.qq.com/s/5kIN2Da-Bw-furkG-_N9nA)
@@ -96,6 +97,8 @@
   * [这两个练手项目，我王多鱼投了！](https://mp.weixin.qq.com/s/eRm07pZIIuVz0rrt7-m4IQ)
   * [这个项目，我能玩一年！](https://mp.weixin.qq.com/s/t3qOKkErm8ZbmKDOhHqCOA)
   * [女娲算法，杀疯了！](https://mp.weixin.qq.com/s/4bbStKhARWC-iCP2MHcJFw)
+  * [AI杀疯了！](https://mp.weixin.qq.com/s/hj2nvkmAzdL3GAmfAm9cFw)
+  * [这脸啊，我算是玩明白了！](https://mp.weixin.qq.com/s/gHBwDhtNLQVpslKRJN6Hag)
 * 囧事人生
   * [打工人的薪资倒挂](https://mp.weixin.qq.com/s/qLx8nevYEJnEwnJQq44zYA)
   * [个人网站没落了？](https://mp.weixin.qq.com/s/sum2v1iTokWPaxiNEZCtxg)
@@ -123,7 +126,8 @@
   * [知名企业家车祸身亡，惨痛！自动驾驶？](https://mp.weixin.qq.com/s/-4Ia5RRnSAn59E3vq7r3wQ)
   * [6k，啪，没了。。](https://mp.weixin.qq.com/s/-31qRqh5oX82s9z5uIvSow)
   * :star:[获奖了！](https://mp.weixin.qq.com/s/yG7P2o8yc-oDDVmgTxAdJg)
-  * 
+  * [我的第一个，一百万！](https://mp.weixin.qq.com/s/CxOb1iJDpp6IObTUrLGMlg)
+  * [3万，啪，又没了。。](https://mp.weixin.qq.com/s/1D5L8WtccC3jFzMg31ULyA)
 * 量化交易
   * [日入上万，Jack 年入百万？](https://mp.weixin.qq.com/s/TnyJOHdl4ejunYVXFxIe5Q)
   * [B站热榜视频，炒股源码来了！](https://mp.weixin.qq.com/s/PdjkbTRMzuaxGogqh1pyow)
