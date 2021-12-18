@@ -33,7 +33,8 @@
   * [聊聊自学，我私藏的学习网站和工具](https://mp.weixin.qq.com/s/pW5tOPjdRSdln5PuKnqK3A)
   * [看书vs视频，我的一点小建议，共勉！](https://mp.weixin.qq.com/s/CpJjI2GnhF5fES8tY_4npA)
 * 视频
-  * :rocket:[一名大厂程序员的成长之路，我的九年时光！](https://www.bilibili.com/video/BV1Zr4y1y7f9)
+  * :star:[AI杀疯了！2021年高能的AI算法，超乎想象！](https://www.bilibili.com/video/BV1RF411B7hT)
+  * [一名大厂程序员的成长之路，我的九年时光！](https://www.bilibili.com/video/BV1Zr4y1y7f9)
   * [Python学习路线一条龙，保姆级教程，自学编程不迷茫！](https://www.bilibili.com/video/BV1Xf4y1j7Np)
   * [十分钟骗走五万五千元！AI声音模仿有多逼真？5秒钟克隆你的语音！](https://www.bilibili.com/video/BV16b4y1a7Dq)
   * [程序员必备的8个学习网站，再也不用交智商税了](https://www.bilibili.com/video/BV1oC4y147S2)
