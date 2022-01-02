@@ -100,6 +100,7 @@
   * [女娲算法，杀疯了！](https://mp.weixin.qq.com/s/4bbStKhARWC-iCP2MHcJFw)
   * [AI杀疯了！](https://mp.weixin.qq.com/s/hj2nvkmAzdL3GAmfAm9cFw)
   * [这脸啊，我算是玩明白了！](https://mp.weixin.qq.com/s/gHBwDhtNLQVpslKRJN6Hag)
+  * [又整新活，AI 杀麻了！](https://mp.weixin.qq.com/s/sWZ_0_IpqTOa3XZ2vdJ00A)
 * 囧事人生
   * [打工人的薪资倒挂](https://mp.weixin.qq.com/s/qLx8nevYEJnEwnJQq44zYA)
   * [个人网站没落了？](https://mp.weixin.qq.com/s/sum2v1iTokWPaxiNEZCtxg)
@@ -126,13 +127,15 @@
   * [被裁了。。](https://mp.weixin.qq.com/s/lSE__8cfOcWJEFlKWqIdTQ)
   * [知名企业家车祸身亡，惨痛！自动驾驶？](https://mp.weixin.qq.com/s/-4Ia5RRnSAn59E3vq7r3wQ)
   * [6k，啪，没了。。](https://mp.weixin.qq.com/s/-31qRqh5oX82s9z5uIvSow)
-  * :star:[获奖了！](https://mp.weixin.qq.com/s/yG7P2o8yc-oDDVmgTxAdJg)
+  * [获奖了！](https://mp.weixin.qq.com/s/yG7P2o8yc-oDDVmgTxAdJg)
   * :star:[我的第一个，一百万！](https://mp.weixin.qq.com/s/CxOb1iJDpp6IObTUrLGMlg)
   * :star:[3万，啪，又没了。。](https://mp.weixin.qq.com/s/1D5L8WtccC3jFzMg31ULyA)
+  * :star:[领证啦！](https://mp.weixin.qq.com/s/W7sQq7RSO_M3RYgfk6u-kw)
 * 量化交易
   * [日入上万，Jack 年入百万？](https://mp.weixin.qq.com/s/TnyJOHdl4ejunYVXFxIe5Q)
   * [B站热榜视频，炒股源码来了！](https://mp.weixin.qq.com/s/PdjkbTRMzuaxGogqh1pyow)
   * [我最成功的一笔投资！](https://mp.weixin.qq.com/s/5o59jziThjC_cnZc8I3jtQ)
+  * [今年，我最成功的一笔投资！](https://mp.weixin.qq.com/s/80jJbVZinbEz-ocwQsjfPw)
 * Pytorch深度学习实战
   * :star:[Pytorch深度学习实战教程（一）：语义分割基础与环境搭建](https://mp.weixin.qq.com/s/KI-9z7FBjfoWfZK3PEPXJA)
   * [Pytorch深度学习实战教程（二）：UNet语义分割网络](https://mp.weixin.qq.com/s/6tZVUbyEjLVewM8vGK9Zhw)
@@ -193,6 +196,7 @@
   * :star:[电子书&视频](https://github.com/Jack-Cherish/awesome-cs-books)
   * [16张让你编程能力突飞猛进的代码速查表](https://mp.weixin.qq.com/s/Lz0JbKTiiRlBtiMBZ-7cnA)
   * [吴恩达：最新的28张图，全解深度学习知识！](https://mp.weixin.qq.com/s/isKcTILDPUKmGTOuJ54AHQ)
+  * [清华，这样上！](https://mp.weixin.qq.com/s/tfZuK2xEP9fwtEofRPUaXQ)
   
 更多内容，敬请期待！
 
