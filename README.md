@@ -132,6 +132,7 @@
   * :star:[我的第一个，一百万！](https://mp.weixin.qq.com/s/CxOb1iJDpp6IObTUrLGMlg)
   * :star:[3万，啪，又没了。。](https://mp.weixin.qq.com/s/1D5L8WtccC3jFzMg31ULyA)
   * :star:[领证啦！](https://mp.weixin.qq.com/s/W7sQq7RSO_M3RYgfk6u-kw)
+  * [第一次 3 万！](https://mp.weixin.qq.com/s/3AIwkk5kSHHd4qRkE7M1xQ)
 * 量化交易
   * [日入上万，Jack 年入百万？](https://mp.weixin.qq.com/s/TnyJOHdl4ejunYVXFxIe5Q)
   * [B站热榜视频，炒股源码来了！](https://mp.weixin.qq.com/s/PdjkbTRMzuaxGogqh1pyow)
