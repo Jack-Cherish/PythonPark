@@ -33,6 +33,7 @@
   * [聊聊自学，我私藏的学习网站和工具](https://mp.weixin.qq.com/s/pW5tOPjdRSdln5PuKnqK3A)
   * [看书vs视频，我的一点小建议，共勉！](https://mp.weixin.qq.com/s/CpJjI2GnhF5fES8tY_4npA)
 * 视频
+  * [AI 再出妙招，大眼萌娃在线循环！](https://www.bilibili.com/video/BV1RL411F7WP) 
   * [2022年保姆级AI算法教程，开发环境搭建一条龙](https://www.bilibili.com/video/BV14R4y1g7qs)
   * :star:[AI杀疯了！2021年高能的AI算法，超乎想象！](https://www.bilibili.com/video/BV1RF411B7hT)
   * [一名大厂程序员的成长之路，我的九年时光！](https://www.bilibili.com/video/BV1Zr4y1y7f9)
@@ -102,6 +103,7 @@
   * [AI杀疯了！](https://mp.weixin.qq.com/s/hj2nvkmAzdL3GAmfAm9cFw)
   * [这脸啊，我算是玩明白了！](https://mp.weixin.qq.com/s/gHBwDhtNLQVpslKRJN6Hag)
   * [又整新活，AI 杀麻了！](https://mp.weixin.qq.com/s/sWZ_0_IpqTOa3XZ2vdJ00A)
+  * [马赛克，克星，真来了！](https://mp.weixin.qq.com/s/VfOQ-afdzQtGZtfrSLG40A)
 * 囧事人生
   * [打工人的薪资倒挂](https://mp.weixin.qq.com/s/qLx8nevYEJnEwnJQq44zYA)
   * [个人网站没落了？](https://mp.weixin.qq.com/s/sum2v1iTokWPaxiNEZCtxg)
@@ -133,6 +135,10 @@
   * :star:[3万，啪，又没了。。](https://mp.weixin.qq.com/s/1D5L8WtccC3jFzMg31ULyA)
   * :star:[领证啦！](https://mp.weixin.qq.com/s/W7sQq7RSO_M3RYgfk6u-kw)
   * [第一次 3 万！](https://mp.weixin.qq.com/s/3AIwkk5kSHHd4qRkE7M1xQ)
+  * [北京，终于落户了！](https://mp.weixin.qq.com/s/5WsXiRQJA1KJCa8jzTrGew)
+  * [发年终奖了！10 万红包封面！](https://mp.weixin.qq.com/s/BTJeT9GT6dFU0Jf1vZYanA)
+  * [15 万就这么没了，我被薅秃了。。](https://mp.weixin.qq.com/s/B6NH4caP9vdtxy7UCN0drQ)
+  * 
 * 量化交易
   * [日入上万，Jack 年入百万？](https://mp.weixin.qq.com/s/TnyJOHdl4ejunYVXFxIe5Q)
   * [B站热榜视频，炒股源码来了！](https://mp.weixin.qq.com/s/PdjkbTRMzuaxGogqh1pyow)
