@@ -104,6 +104,8 @@
   * [这脸啊，我算是玩明白了！](https://mp.weixin.qq.com/s/gHBwDhtNLQVpslKRJN6Hag)
   * [又整新活，AI 杀麻了！](https://mp.weixin.qq.com/s/sWZ_0_IpqTOa3XZ2vdJ00A)
   * [马赛克，克星，真来了！](https://mp.weixin.qq.com/s/VfOQ-afdzQtGZtfrSLG40A)
+  * [阿 B，真会玩！](https://mp.weixin.qq.com/s/9XTNVxv176CNG8GAhxQAhQ)
+  * [这几个项目，我看傻了！](https://mp.weixin.qq.com/s/DKZD-gdtALswlhtVkwRwfQ)
 * 囧事人生
   * [打工人的薪资倒挂](https://mp.weixin.qq.com/s/qLx8nevYEJnEwnJQq44zYA)
   * [个人网站没落了？](https://mp.weixin.qq.com/s/sum2v1iTokWPaxiNEZCtxg)
@@ -138,7 +140,10 @@
   * [北京，终于落户了！](https://mp.weixin.qq.com/s/5WsXiRQJA1KJCa8jzTrGew)
   * [发年终奖了！10 万红包封面！](https://mp.weixin.qq.com/s/BTJeT9GT6dFU0Jf1vZYanA)
   * [15 万就这么没了，我被薅秃了。。](https://mp.weixin.qq.com/s/B6NH4caP9vdtxy7UCN0drQ)
-  * 
+  * [突然决定，创业了！](https://mp.weixin.qq.com/s/OGBuIU7j7qtFD4y99U7i4Q)
+  * [绝了，被监控了！还怎么摸鱼？](https://mp.weixin.qq.com/s/j8UJxKsdR4jPn6gVqzgKqw)
+  * [一觉醒来，炸锅了！全面开战....](https://mp.weixin.qq.com/s/KsbMelM8CYsmm9G3kxqMpQ)
+  * [两件事，让我大跌眼镜...](https://mp.weixin.qq.com/s/BXVevw81MQ_HUOtrRkvxmw)
 * 量化交易
   * [日入上万，Jack 年入百万？](https://mp.weixin.qq.com/s/TnyJOHdl4ejunYVXFxIe5Q)
   * [B站热榜视频，炒股源码来了！](https://mp.weixin.qq.com/s/PdjkbTRMzuaxGogqh1pyow)
