@@ -33,6 +33,7 @@
   * [聊聊自学，我私藏的学习网站和工具](https://mp.weixin.qq.com/s/pW5tOPjdRSdln5PuKnqK3A)
   * [看书vs视频，我的一点小建议，共勉！](https://mp.weixin.qq.com/s/CpJjI2GnhF5fES8tY_4npA)
 * 视频
+  * [耗时三个月做了一个元宇宙，惨被割韭菜？](https://www.bilibili.com/video/BV16L411A7n2)
   * [AI 再出妙招，大眼萌娃在线循环！](https://www.bilibili.com/video/BV1RL411F7WP) 
   * [2022年保姆级AI算法教程，开发环境搭建一条龙](https://www.bilibili.com/video/BV14R4y1g7qs)
   * :star:[AI杀疯了！2021年高能的AI算法，超乎想象！](https://www.bilibili.com/video/BV1RF411B7hT)
