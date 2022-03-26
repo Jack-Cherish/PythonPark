@@ -107,6 +107,7 @@
   * [马赛克，克星，真来了！](https://mp.weixin.qq.com/s/VfOQ-afdzQtGZtfrSLG40A)
   * [阿 B，真会玩！](https://mp.weixin.qq.com/s/9XTNVxv176CNG8GAhxQAhQ)
   * [这几个项目，我看傻了！](https://mp.weixin.qq.com/s/DKZD-gdtALswlhtVkwRwfQ)
+  * [健身环爆打老头环，超高难度，已开源！](https://mp.weixin.qq.com/s/s5HVsFd_8Jt2x5aeVwjNbg)
 * 囧事人生
   * [打工人的薪资倒挂](https://mp.weixin.qq.com/s/qLx8nevYEJnEwnJQq44zYA)
   * [个人网站没落了？](https://mp.weixin.qq.com/s/sum2v1iTokWPaxiNEZCtxg)
@@ -145,6 +146,7 @@
   * [绝了，被监控了！还怎么摸鱼？](https://mp.weixin.qq.com/s/j8UJxKsdR4jPn6gVqzgKqw)
   * [一觉醒来，炸锅了！全面开战....](https://mp.weixin.qq.com/s/KsbMelM8CYsmm9G3kxqMpQ)
   * [两件事，让我大跌眼镜...](https://mp.weixin.qq.com/s/BXVevw81MQ_HUOtrRkvxmw)
+  * [兄弟们，人麻了。。。](https://mp.weixin.qq.com/s/Jd1nTRJtTdapVSE75fUcVA)
 * 量化交易
   * [日入上万，Jack 年入百万？](https://mp.weixin.qq.com/s/TnyJOHdl4ejunYVXFxIe5Q)
   * [B站热榜视频，炒股源码来了！](https://mp.weixin.qq.com/s/PdjkbTRMzuaxGogqh1pyow)
@@ -211,6 +213,7 @@
   * [16张让你编程能力突飞猛进的代码速查表](https://mp.weixin.qq.com/s/Lz0JbKTiiRlBtiMBZ-7cnA)
   * [吴恩达：最新的28张图，全解深度学习知识！](https://mp.weixin.qq.com/s/isKcTILDPUKmGTOuJ54AHQ)
   * [清华，这样上！](https://mp.weixin.qq.com/s/tfZuK2xEP9fwtEofRPUaXQ)
+  * [北大CS，这样上！](https://mp.weixin.qq.com/s/j6eO9snN8URYLTlmH0le9w)
   
 更多内容，敬请期待！
 
