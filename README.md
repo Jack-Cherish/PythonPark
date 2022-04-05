@@ -147,6 +147,7 @@
   * [一觉醒来，炸锅了！全面开战....](https://mp.weixin.qq.com/s/KsbMelM8CYsmm9G3kxqMpQ)
   * [两件事，让我大跌眼镜...](https://mp.weixin.qq.com/s/BXVevw81MQ_HUOtrRkvxmw)
   * [兄弟们，人麻了。。。](https://mp.weixin.qq.com/s/Jd1nTRJtTdapVSE75fUcVA)
+  * [我的三年北漂，晋升路](https://mp.weixin.qq.com/s/pg3faDoaxAXSwfVbRWYpBg)
 * 量化交易
   * [日入上万，Jack 年入百万？](https://mp.weixin.qq.com/s/TnyJOHdl4ejunYVXFxIe5Q)
   * [B站热榜视频，炒股源码来了！](https://mp.weixin.qq.com/s/PdjkbTRMzuaxGogqh1pyow)
