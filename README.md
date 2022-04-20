@@ -32,6 +32,7 @@
   * :star:[B站优质视频资源推荐，起飞！](https://mp.weixin.qq.com/s/iL9XzJWsCt0s2VEiya_ycA)
   * [聊聊自学，我私藏的学习网站和工具](https://mp.weixin.qq.com/s/pW5tOPjdRSdln5PuKnqK3A)
   * [看书vs视频，我的一点小建议，共勉！](https://mp.weixin.qq.com/s/CpJjI2GnhF5fES8tY_4npA)
+  * [给大学弟妹们的，亿点建议！](https://mp.weixin.qq.com/s/9cIv-3iZJex3jmCIT8QKPg)
 * 视频
   * [耗时三个月做了一个元宇宙，惨被割韭菜？](https://www.bilibili.com/video/BV16L411A7n2)
   * [AI 再出妙招，大眼萌娃在线循环！](https://www.bilibili.com/video/BV1RL411F7WP) 
@@ -109,6 +110,7 @@
   * [这几个项目，我看傻了！](https://mp.weixin.qq.com/s/DKZD-gdtALswlhtVkwRwfQ)
   * [健身环爆打老头环，超高难度，已开源！](https://mp.weixin.qq.com/s/s5HVsFd_8Jt2x5aeVwjNbg)
   * [为艺术而生的超强算法，老霸道了！](https://mp.weixin.qq.com/s/0lv-V8mF3Zj8M3kuVIKHOQ)
+  * [浙大小姐姐，真有你的！](https://mp.weixin.qq.com/s/Ap_8seNOReNH3gqEQnwBxw)
 * 囧事人生
   * [打工人的薪资倒挂](https://mp.weixin.qq.com/s/qLx8nevYEJnEwnJQq44zYA)
   * [个人网站没落了？](https://mp.weixin.qq.com/s/sum2v1iTokWPaxiNEZCtxg)
@@ -150,6 +152,7 @@
   * [兄弟们，人麻了。。。](https://mp.weixin.qq.com/s/Jd1nTRJtTdapVSE75fUcVA)
   * [我的三年北漂，晋升路](https://mp.weixin.qq.com/s/pg3faDoaxAXSwfVbRWYpBg)
   * [被骂臭外地的...](https://mp.weixin.qq.com/s/fftyXq7RIIQfFQdiGfyrpg)
+  * [这口青春饭，我干了！](https://mp.weixin.qq.com/s/sbKMxgkZLKytJAW0nDvLow)
 * 量化交易
   * [日入上万，Jack 年入百万？](https://mp.weixin.qq.com/s/TnyJOHdl4ejunYVXFxIe5Q)
   * [B站热榜视频，炒股源码来了！](https://mp.weixin.qq.com/s/PdjkbTRMzuaxGogqh1pyow)
