@@ -34,6 +34,7 @@
   * [看书vs视频，我的一点小建议，共勉！](https://mp.weixin.qq.com/s/CpJjI2GnhF5fES8tY_4npA)
   * [给大学弟妹们的，亿点建议！](https://mp.weixin.qq.com/s/9cIv-3iZJex3jmCIT8QKPg)
 * 视频
+  * [只有想不到，没有做不到的超强AI！](https://www.bilibili.com/video/BV1mv4y1N72d/)
   * [耗时三个月做了一个元宇宙，惨被割韭菜？](https://www.bilibili.com/video/BV16L411A7n2)
   * [AI 再出妙招，大眼萌娃在线循环！](https://www.bilibili.com/video/BV1RL411F7WP) 
   * [2022年保姆级AI算法教程，开发环境搭建一条龙](https://www.bilibili.com/video/BV14R4y1g7qs)
