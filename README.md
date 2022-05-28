@@ -112,6 +112,7 @@
   * [为艺术而生的超强算法，老霸道了！](https://mp.weixin.qq.com/s/0lv-V8mF3Zj8M3kuVIKHOQ)
   * [浙大小姐姐，真有你的！](https://mp.weixin.qq.com/s/Ap_8seNOReNH3gqEQnwBxw)
   * [该死，这糟糕的心动感](https://mp.weixin.qq.com/s/nYiJA3LPjsvLcdm7P3vAZA)
+  * [只有想不到，没有做不到的超强AI！](https://mp.weixin.qq.com/s/fSqn-70X6a9rb4gZJHy7wA)
 * 囧事人生
   * [打工人的薪资倒挂](https://mp.weixin.qq.com/s/qLx8nevYEJnEwnJQq44zYA)
   * [个人网站没落了？](https://mp.weixin.qq.com/s/sum2v1iTokWPaxiNEZCtxg)
