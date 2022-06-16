@@ -33,6 +33,7 @@
   * [看书vs视频，我的一点小建议，共勉！](https://mp.weixin.qq.com/s/CpJjI2GnhF5fES8tY_4npA)
   * [给大学弟妹们的，亿点建议！](https://mp.weixin.qq.com/s/9cIv-3iZJex3jmCIT8QKPg)
 * 视频
+  * [学了十年代码，写的真人AI体感游戏](https://www.bilibili.com/video/BV1F3411G7Pt)
   * [只有想不到，没有做不到的超强AI！](https://www.bilibili.com/video/BV1mv4y1N72d/)
   * [耗时三个月做了一个元宇宙，惨被割韭菜？](https://www.bilibili.com/video/BV16L411A7n2)
   * [AI 再出妙招，大眼萌娃在线循环！](https://www.bilibili.com/video/BV1RL411F7WP) 
@@ -113,6 +114,8 @@
   * [浙大小姐姐，真有你的！](https://mp.weixin.qq.com/s/Ap_8seNOReNH3gqEQnwBxw)
   * [该死，这糟糕的心动感](https://mp.weixin.qq.com/s/nYiJA3LPjsvLcdm7P3vAZA)
   * [只有想不到，没有做不到的超强AI！](https://mp.weixin.qq.com/s/fSqn-70X6a9rb4gZJHy7wA)
+  * [我与身旁的美女，格格不入，我决定...](https://mp.weixin.qq.com/s/Rr_Izy5zYN0Al7De_7HWLA)
+  * [该死，我又心动了，这都能行](https://mp.weixin.qq.com/s/kLEvmDPLiW0BWSZS4eSvdw)
 * 囧事人生
   * [打工人的薪资倒挂](https://mp.weixin.qq.com/s/qLx8nevYEJnEwnJQq44zYA)
   * [个人网站没落了？](https://mp.weixin.qq.com/s/sum2v1iTokWPaxiNEZCtxg)
@@ -156,6 +159,8 @@
   * [被骂臭外地的...](https://mp.weixin.qq.com/s/fftyXq7RIIQfFQdiGfyrpg)
   * [这口青春饭，我干了！](https://mp.weixin.qq.com/s/sbKMxgkZLKytJAW0nDvLow)
   * [请做好3年内随时失业的准备？](https://mp.weixin.qq.com/s/9UfEMO0L9yr-c7zoAgzVTA)
+  * [其实今年，我也挣不到钱了。](https://mp.weixin.qq.com/s/5RNNY_Qok0fRhxDhlhyR_g)
+  * [哎，又进医院了！](https://mp.weixin.qq.com/s/P4nXB9eNqMaZNUSOUWXU6Q)
 * 量化交易
   * [日入上万，Jack 年入百万？](https://mp.weixin.qq.com/s/TnyJOHdl4ejunYVXFxIe5Q)
   * [B站热榜视频，炒股源码来了！](https://mp.weixin.qq.com/s/PdjkbTRMzuaxGogqh1pyow)
