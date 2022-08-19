@@ -33,6 +33,7 @@
   * [看书vs视频，我的一点小建议，共勉！](https://mp.weixin.qq.com/s/CpJjI2GnhF5fES8tY_4npA)
   * [给大学弟妹们的，亿点建议！](https://mp.weixin.qq.com/s/9cIv-3iZJex3jmCIT8QKPg)
 * 视频
+  * [99%的人都不知道照片隐藏的惊天秘密，实在是太优雅了！](https://www.bilibili.com/video/BV1XV4y1p7nS)
   * [学了十年代码，写的真人AI体感游戏](https://www.bilibili.com/video/BV1F3411G7Pt)
   * [只有想不到，没有做不到的超强AI！](https://www.bilibili.com/video/BV1mv4y1N72d/)
   * [耗时三个月做了一个元宇宙，惨被割韭菜？](https://www.bilibili.com/video/BV16L411A7n2)
