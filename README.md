@@ -69,6 +69,7 @@
   * [嘿，来聚个类！](https://mp.weixin.qq.com/s/oxB5icj8KOfFja8XTHf7jg)
   * [硬核图解，再填猛将：YOLO详解](https://mp.weixin.qq.com/s/Mhsz9SwjquS7gzvLUNm8pQ)
   * [我的，小金库！](https://mp.weixin.qq.com/s/ATDotohELBhpOVORW54_PQ)
+  * [对不起，我不是一个优雅的人！](https://mp.weixin.qq.com/s/_YAhKmOLncF7hAatmBqAuQ)
 * AI 实验室
   * [百变人脸，趣味容颜，ALAE 人脸玩出新高度！](https://mp.weixin.qq.com/s/9C8OY7bchZNfqUCFSFuhjQ)
   * [你的红色高跟鞋，AI 换脸技术初体验](https://mp.weixin.qq.com/s/5kIN2Da-Bw-furkG-_N9nA)
@@ -117,6 +118,9 @@
   * [只有想不到，没有做不到的超强AI！](https://mp.weixin.qq.com/s/fSqn-70X6a9rb4gZJHy7wA)
   * [我与身旁的美女，格格不入，我决定...](https://mp.weixin.qq.com/s/Rr_Izy5zYN0Al7De_7HWLA)
   * [该死，我又心动了，这都能行](https://mp.weixin.qq.com/s/kLEvmDPLiW0BWSZS4eSvdw)
+  * [嘘，差点被警察带走](https://mp.weixin.qq.com/s/tB1SaZ-WYmpWbp7OSEv9lg)
+  * [小姐姐终于开口了！AI杀疯了！](https://mp.weixin.qq.com/s/xYVAtLLuLswJ5AJ5YLeOXw)
+  * [小姐姐，哎呦，你干嘛～](https://mp.weixin.qq.com/s/yzvdyU2K-0pZ1rAB6OYggg)
 * 囧事人生
   * [打工人的薪资倒挂](https://mp.weixin.qq.com/s/qLx8nevYEJnEwnJQq44zYA)
   * [个人网站没落了？](https://mp.weixin.qq.com/s/sum2v1iTokWPaxiNEZCtxg)
@@ -162,6 +166,7 @@
   * [请做好3年内随时失业的准备？](https://mp.weixin.qq.com/s/9UfEMO0L9yr-c7zoAgzVTA)
   * [其实今年，我也挣不到钱了。](https://mp.weixin.qq.com/s/5RNNY_Qok0fRhxDhlhyR_g)
   * [哎，又进医院了！](https://mp.weixin.qq.com/s/P4nXB9eNqMaZNUSOUWXU6Q)
+  * [我结婚了！](https://mp.weixin.qq.com/s/OVcu7qFlf2splex1e8MZYQ)
 * 量化交易
   * [日入上万，Jack 年入百万？](https://mp.weixin.qq.com/s/TnyJOHdl4ejunYVXFxIe5Q)
   * [B站热榜视频，炒股源码来了！](https://mp.weixin.qq.com/s/PdjkbTRMzuaxGogqh1pyow)
