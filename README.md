@@ -128,6 +128,8 @@
   * [竟有这种好东西，那我可不困了！](https://mp.weixin.qq.com/s/LV4iExHxWeD0jGOQPB9gfA)
   * [我用旧手机，做了一个刷小姐姐的外挂！](https://mp.weixin.qq.com/s/ct3WzKb56sf6S68NvExV-g)
   * [巧了，这几个项目，我王多鱼投了！](https://mp.weixin.qq.com/s/KFpytZ2ERp4xdO9OSEDxbg)
+  * [该死，这糟糕的心动感，梅开二度](https://mp.weixin.qq.com/s/7aalnAeKoH0dd1z2c4aWfA)
+  * [凌晨4点被家人们送上热搜。。。](https://mp.weixin.qq.com/s/zsgaUPp00hV8aII_TXigvQ)
 * 囧事人生
   * [打工人的薪资倒挂](https://mp.weixin.qq.com/s/qLx8nevYEJnEwnJQq44zYA)
   * [个人网站没落了？](https://mp.weixin.qq.com/s/sum2v1iTokWPaxiNEZCtxg)
@@ -176,6 +178,7 @@
   * [我结婚了！](https://mp.weixin.qq.com/s/OVcu7qFlf2splex1e8MZYQ)
   * [虾皮太让人失望了！](https://mp.weixin.qq.com/s/tn3Ra0AwKBaS8mzVR7J_Xg)
   * [不卷了，彻底躺平的假期，真爽！](https://mp.weixin.qq.com/s/Pt69U4xg-pe6EzvIWRJvUw)
+  * [完了，好兄弟的心态崩了。。。](https://mp.weixin.qq.com/s/fRSakihz1tr1rm4sc4DP8g)
 * 量化交易
   * [日入上万，Jack 年入百万？](https://mp.weixin.qq.com/s/TnyJOHdl4ejunYVXFxIe5Q)
   * [B站热榜视频，炒股源码来了！](https://mp.weixin.qq.com/s/PdjkbTRMzuaxGogqh1pyow)
