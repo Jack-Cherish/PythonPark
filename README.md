@@ -130,6 +130,9 @@
   * [巧了，这几个项目，我王多鱼投了！](https://mp.weixin.qq.com/s/KFpytZ2ERp4xdO9OSEDxbg)
   * [该死，这糟糕的心动感，梅开二度](https://mp.weixin.qq.com/s/7aalnAeKoH0dd1z2c4aWfA)
   * [凌晨4点被家人们送上热搜。。。](https://mp.weixin.qq.com/s/zsgaUPp00hV8aII_TXigvQ)
+  * [上了B站热门，又被骂了！](https://mp.weixin.qq.com/s/LmXWBeKLo2Q3K3nMQ268sA)
+  * [趣味AI项目又来了](https://mp.weixin.qq.com/s/qjAACD6rXM96NNDCnGxa5A)
+  * [该死，这糟糕的心动感，梅开三度](https://mp.weixin.qq.com/s/52tu7mrUaZuvw-YxBWcKAA)
 * 囧事人生
   * [打工人的薪资倒挂](https://mp.weixin.qq.com/s/qLx8nevYEJnEwnJQq44zYA)
   * [个人网站没落了？](https://mp.weixin.qq.com/s/sum2v1iTokWPaxiNEZCtxg)
@@ -179,11 +182,15 @@
   * [虾皮太让人失望了！](https://mp.weixin.qq.com/s/tn3Ra0AwKBaS8mzVR7J_Xg)
   * [不卷了，彻底躺平的假期，真爽！](https://mp.weixin.qq.com/s/Pt69U4xg-pe6EzvIWRJvUw)
   * [完了，好兄弟的心态崩了。。。](https://mp.weixin.qq.com/s/fRSakihz1tr1rm4sc4DP8g)
+  * [复工，阳了个阳。。。](https://mp.weixin.qq.com/s/j_ju6zqXzKpw0RypKGbBoQ)
+  * [最担心的事还是发生了，我也阳了](https://mp.weixin.qq.com/s/qS5F6526Us8XuBXIS9fwAQ)
+  * [打了三针疫苗，阳了第二次？](https://mp.weixin.qq.com/s/q6URYlp8zgXp7GxJU-Werg)
 * 量化交易
   * [日入上万，Jack 年入百万？](https://mp.weixin.qq.com/s/TnyJOHdl4ejunYVXFxIe5Q)
   * [B站热榜视频，炒股源码来了！](https://mp.weixin.qq.com/s/PdjkbTRMzuaxGogqh1pyow)
   * [我最成功的一笔投资！](https://mp.weixin.qq.com/s/5o59jziThjC_cnZc8I3jtQ)
   * [今年，我最成功的一笔投资！](https://mp.weixin.qq.com/s/80jJbVZinbEz-ocwQsjfPw)
+  * [今年，我只赚了一点点](https://mp.weixin.qq.com/s/iyIjZ0QkUvzeNgcN27gm7w)
 * Pytorch深度学习实战
   * [Pytorch深度学习实战教程（一）：语义分割基础与环境搭建](https://mp.weixin.qq.com/s/KI-9z7FBjfoWfZK3PEPXJA)
   * [Pytorch深度学习实战教程（二）：UNet语义分割网络](https://mp.weixin.qq.com/s/6tZVUbyEjLVewM8vGK9Zhw)
