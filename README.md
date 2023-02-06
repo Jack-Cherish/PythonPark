@@ -133,6 +133,7 @@
   * [上了B站热门，又被骂了！](https://mp.weixin.qq.com/s/LmXWBeKLo2Q3K3nMQ268sA)
   * [趣味AI项目又来了](https://mp.weixin.qq.com/s/qjAACD6rXM96NNDCnGxa5A)
   * [该死，这糟糕的心动感，梅开三度](https://mp.weixin.qq.com/s/52tu7mrUaZuvw-YxBWcKAA)
+  * [InstructPix2Pix，玩疯了](https://mp.weixin.qq.com/s/AYtMrkzAhbMFO4CEpf3kZw)
 * 囧事人生
   * [打工人的薪资倒挂](https://mp.weixin.qq.com/s/qLx8nevYEJnEwnJQq44zYA)
   * [个人网站没落了？](https://mp.weixin.qq.com/s/sum2v1iTokWPaxiNEZCtxg)
@@ -185,6 +186,10 @@
   * [复工，阳了个阳。。。](https://mp.weixin.qq.com/s/j_ju6zqXzKpw0RypKGbBoQ)
   * [最担心的事还是发生了，我也阳了](https://mp.weixin.qq.com/s/qS5F6526Us8XuBXIS9fwAQ)
   * [打了三针疫苗，阳了第二次？](https://mp.weixin.qq.com/s/q6URYlp8zgXp7GxJU-Werg)
+  * [一千万成就到手，结婚一年了！](https://mp.weixin.qq.com/s/YMrfBJRmdTdhTyxGrH2GlQ)
+  * [发年终奖了！再来10 万红包封面！](https://mp.weixin.qq.com/s/tUrFse4ey3INgOopiDHkPA)
+  * [突然决定，起飞去广州！](https://mp.weixin.qq.com/s/68h77exbbINKqYeMWGyoMg)
+  * [30岁了，冒死说几句大实话！](https://mp.weixin.qq.com/s/j0yzonrhPPcemDRF6QBVkw)
 * 量化交易
   * [日入上万，Jack 年入百万？](https://mp.weixin.qq.com/s/TnyJOHdl4ejunYVXFxIe5Q)
   * [B站热榜视频，炒股源码来了！](https://mp.weixin.qq.com/s/PdjkbTRMzuaxGogqh1pyow)
@@ -244,6 +249,7 @@
   * [代码已开源，一起魔改大西瓜！](https://mp.weixin.qq.com/s/6MzJkehRr4BKVKSnsqpMxA)
   * [别再折腾开发环境了，一劳永逸的搭建方法](https://mp.weixin.qq.com/s/ghKGVutz9RQ4fMGJDHWtww)
   * [助你编程能力「突飞猛进」的干货分享](https://mp.weixin.qq.com/s/viVP4oNLgDLLUz3sT3Djew)
+  * [上班第一件事：马上卸载这个恶心的软件！](https://mp.weixin.qq.com/s/6i2YUg4Y3oGenbn-B3Drjw)
 * 练手项目
   * [露一手，用Python写了一个疫苗管理系统！](https://mp.weixin.qq.com/s/3zpt6SnXqMkQ6eTIkdbBeA)
   * [好家伙，花了一个月时间，用Python写了个网易云！](https://mp.weixin.qq.com/s/xsnwKL3rzvEIYdaXCE-6tA)
