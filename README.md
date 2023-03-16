@@ -33,6 +33,7 @@
   * [看书vs视频，我的一点小建议，共勉！](https://mp.weixin.qq.com/s/CpJjI2GnhF5fES8tY_4npA)
   * [给大学弟妹们的，亿点建议！](https://mp.weixin.qq.com/s/9cIv-3iZJex3jmCIT8QKPg)
 * 视频
+  * [AI声音克隆](https://www.bilibili.com/video/BV1x24y147yq)
   * [【AI绘画】AI又进化了，革命性突破](https://www.bilibili.com/video/BV1X24y1n77u)
   * [太猛了！AI这波杀疯了，原来还能这么聊天！](https://www.bilibili.com/video/BV1yP4y1Q7PH)
   * [AI大胆预测世界杯冠军，用了100年的数据？](https://www.bilibili.com/video/BV1324y117jq)
@@ -136,7 +137,10 @@
   * [趣味AI项目又来了](https://mp.weixin.qq.com/s/qjAACD6rXM96NNDCnGxa5A)
   * [该死，这糟糕的心动感，梅开三度](https://mp.weixin.qq.com/s/52tu7mrUaZuvw-YxBWcKAA)
   * [InstructPix2Pix，玩疯了](https://mp.weixin.qq.com/s/AYtMrkzAhbMFO4CEpf3kZw)
+  * [又整新活，Rome](https://mp.weixin.qq.com/s/Sp30Gg-EjqUQXExjwaEinA)
+  * [Alas、mm-cot、Ambient](https://mp.weixin.qq.com/s/P3qNGJrEcjwQG-Bri-I0Qw)
   * [AI又进化了，突破性革命来了！](https://mp.weixin.qq.com/s/BwGvdmbuq561mS0MMS0wGA)
+  * [AI声音克隆又进化了](https://mp.weixin.qq.com/s/xRnODTE4oUwAhNrTYZLHDw)
 * 囧事人生
   * [打工人的薪资倒挂](https://mp.weixin.qq.com/s/qLx8nevYEJnEwnJQq44zYA)
   * [个人网站没落了？](https://mp.weixin.qq.com/s/sum2v1iTokWPaxiNEZCtxg)
@@ -195,6 +199,7 @@
   * [30岁了，冒死说几句大实话！](https://mp.weixin.qq.com/s/j0yzonrhPPcemDRF6QBVkw)
   * [危！ChatGPT一出，这几大职业可能先丢饭碗！](https://mp.weixin.qq.com/s/Z7BY3MUctbBOeFvJTpac7Q)
   * [第一批因ChatGPT坐牢的人，已经上路了](https://mp.weixin.qq.com/s/9b-YO5kxIeD0K38_Mw6c2A)
+  * [今天打开个税APP，我直接人麻了！](https://mp.weixin.qq.com/s/LrO5N7Zke67WheBUuC3uxQ)
 * 量化交易
   * [日入上万，Jack 年入百万？](https://mp.weixin.qq.com/s/TnyJOHdl4ejunYVXFxIe5Q)
   * [B站热榜视频，炒股源码来了！](https://mp.weixin.qq.com/s/PdjkbTRMzuaxGogqh1pyow)
