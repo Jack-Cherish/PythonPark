@@ -33,6 +33,7 @@
   * [看书vs视频，我的一点小建议，共勉！](https://mp.weixin.qq.com/s/CpJjI2GnhF5fES8tY_4npA)
   * [给大学弟妹们的，亿点建议！](https://mp.weixin.qq.com/s/9cIv-3iZJex3jmCIT8QKPg)
 * 视频
+  * [【AI唱歌】再次进化！6分钟学会用AI唱歌，杀疯了！](https://www.bilibili.com/video/BV1wv4y1J7pR)
   * [AI声音克隆](https://www.bilibili.com/video/BV1x24y147yq)
   * [【AI绘画】AI又进化了，革命性突破](https://www.bilibili.com/video/BV1X24y1n77u)
   * [太猛了！AI这波杀疯了，原来还能这么聊天！](https://www.bilibili.com/video/BV1yP4y1Q7PH)
