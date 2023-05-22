@@ -142,6 +142,14 @@
   * [Alas、mm-cot、Ambient](https://mp.weixin.qq.com/s/P3qNGJrEcjwQG-Bri-I0Qw)
   * [AI又进化了，突破性革命来了！](https://mp.weixin.qq.com/s/BwGvdmbuq561mS0MMS0wGA)
   * [AI声音克隆又进化了](https://mp.weixin.qq.com/s/xRnODTE4oUwAhNrTYZLHDw)
+  * [4个令人惊艳的ChatGPT项目，开源了！AIGC也太猛了...](https://mp.weixin.qq.com/s/GzpedT2vvOJ0Mb0QhrPScw)
+  * [开箱即用，5个令人惊艳的AI项目，开源了！](https://mp.weixin.qq.com/s/ILFav2Hk8l7fmTzHVGBbqw)
+  * [炸裂，AI 打造了一个西部世界！](https://mp.weixin.qq.com/s/pAYaSk78UcyE1-GZiuX0lA)
+  * [MiniGPT4，开源了！](https://mp.weixin.qq.com/s/Ut2vzx1ksbYUpXcRd27TXg)
+  * [新项目又火了，已开源！gpt4免费了...](https://mp.weixin.qq.com/s/f6Sxc1ZYWguYkiFV3atI3g)
+  * [OpenAI又一新项目，火了！已开源！](https://mp.weixin.qq.com/s/PI5S-rqS8TdomDCngqtbpw)
+  * [一个厉害的中医GPT，AI老中医开源了！](https://mp.weixin.qq.com/s/9O1pr7UZVRz9G9D8kMvwRw)
+  * [好家伙，这新项目太优秀了，快开源！](https://mp.weixin.qq.com/s/WnO2y9ZhhJgNycJ5Km868g)
 * 囧事人生
   * [打工人的薪资倒挂](https://mp.weixin.qq.com/s/qLx8nevYEJnEwnJQq44zYA)
   * [个人网站没落了？](https://mp.weixin.qq.com/s/sum2v1iTokWPaxiNEZCtxg)
@@ -201,6 +209,8 @@
   * [危！ChatGPT一出，这几大职业可能先丢饭碗！](https://mp.weixin.qq.com/s/Z7BY3MUctbBOeFvJTpac7Q)
   * [第一批因ChatGPT坐牢的人，已经上路了](https://mp.weixin.qq.com/s/9b-YO5kxIeD0K38_Mw6c2A)
   * [今天打开个税APP，我直接人麻了！](https://mp.weixin.qq.com/s/LrO5N7Zke67WheBUuC3uxQ)
+  * [大家都在卷ChatGPT的时候，我已经...](https://mp.weixin.qq.com/s/4krY3O4dTF9GNU0M8hFTuA)
+  * [为爱发电的博客园要没了？？！](https://mp.weixin.qq.com/s/FBI1KUsbu2MkyyhpeW42ew)
 * 量化交易
   * [日入上万，Jack 年入百万？](https://mp.weixin.qq.com/s/TnyJOHdl4ejunYVXFxIe5Q)
   * [B站热榜视频，炒股源码来了！](https://mp.weixin.qq.com/s/PdjkbTRMzuaxGogqh1pyow)
