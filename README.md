@@ -33,6 +33,7 @@
   * [看书vs视频，我的一点小建议，共勉！](https://mp.weixin.qq.com/s/CpJjI2GnhF5fES8tY_4npA)
   * [给大学弟妹们的，亿点建议！](https://mp.weixin.qq.com/s/9cIv-3iZJex3jmCIT8QKPg)
 * 视频
+  * [AI"鲁迅"，入驻B站啦！](https://www.bilibili.com/video/BV1uu411s7Tn)
   * [【AI唱歌】再次进化！6分钟学会用AI唱歌，杀疯了！](https://www.bilibili.com/video/BV1wv4y1J7pR)
   * [AI声音克隆](https://www.bilibili.com/video/BV1x24y147yq)
   * [【AI绘画】AI又进化了，革命性突破](https://www.bilibili.com/video/BV1X24y1n77u)
@@ -150,6 +151,8 @@
   * [OpenAI又一新项目，火了！已开源！](https://mp.weixin.qq.com/s/PI5S-rqS8TdomDCngqtbpw)
   * [一个厉害的中医GPT，AI老中医开源了！](https://mp.weixin.qq.com/s/9O1pr7UZVRz9G9D8kMvwRw)
   * [好家伙，这新项目太优秀了，快开源！](https://mp.weixin.qq.com/s/WnO2y9ZhhJgNycJ5Km868g)
+  * [法律方向也有GPT了！](https://mp.weixin.qq.com/s/AqCbfrNT7JYc8HR2aQmW-Q)
+  * [用AI生成的“鲁迅”](https://mp.weixin.qq.com/s/dtBYCS130ck8WXLB1cQ_ug)
 * 囧事人生
   * [打工人的薪资倒挂](https://mp.weixin.qq.com/s/qLx8nevYEJnEwnJQq44zYA)
   * [个人网站没落了？](https://mp.weixin.qq.com/s/sum2v1iTokWPaxiNEZCtxg)
@@ -211,6 +214,7 @@
   * [今天打开个税APP，我直接人麻了！](https://mp.weixin.qq.com/s/LrO5N7Zke67WheBUuC3uxQ)
   * [大家都在卷ChatGPT的时候，我已经...](https://mp.weixin.qq.com/s/4krY3O4dTF9GNU0M8hFTuA)
   * [为爱发电的博客园要没了？？！](https://mp.weixin.qq.com/s/FBI1KUsbu2MkyyhpeW42ew)
+  * [关于一场诈骗](https://mp.weixin.qq.com/s/Gg8TD7LzUiNPVRC9Gep_DA)
 * 量化交易
   * [日入上万，Jack 年入百万？](https://mp.weixin.qq.com/s/TnyJOHdl4ejunYVXFxIe5Q)
   * [B站热榜视频，炒股源码来了！](https://mp.weixin.qq.com/s/PdjkbTRMzuaxGogqh1pyow)
