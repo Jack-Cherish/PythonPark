@@ -153,6 +153,10 @@
   * [好家伙，这新项目太优秀了，快开源！](https://mp.weixin.qq.com/s/WnO2y9ZhhJgNycJ5Km868g)
   * [法律方向也有GPT了！](https://mp.weixin.qq.com/s/AqCbfrNT7JYc8HR2aQmW-Q)
   * [用AI生成的“鲁迅”](https://mp.weixin.qq.com/s/dtBYCS130ck8WXLB1cQ_ug)
+  * [AI进化太快，我要学不动了。。。](https://mp.weixin.qq.com/s/4R_0VQDvmSqwgsnfck_4kA)
+  * [AI进化太快了，新项目已开源！](https://mp.weixin.qq.com/s/XEW162N2fgyN5EKND5lzEg)
+  * [金融GPT来了](https://mp.weixin.qq.com/s/7nj2iW4zQX795FX0dl1CWw)
+  * [超越 GPT-4 的国产开源大模型来了！](https://mp.weixin.qq.com/s/4RUHcSvE3rTFJUNPmpwGag)
 * 囧事人生
   * [打工人的薪资倒挂](https://mp.weixin.qq.com/s/qLx8nevYEJnEwnJQq44zYA)
   * [个人网站没落了？](https://mp.weixin.qq.com/s/sum2v1iTokWPaxiNEZCtxg)
@@ -215,6 +219,7 @@
   * [大家都在卷ChatGPT的时候，我已经...](https://mp.weixin.qq.com/s/4krY3O4dTF9GNU0M8hFTuA)
   * [为爱发电的博客园要没了？？！](https://mp.weixin.qq.com/s/FBI1KUsbu2MkyyhpeW42ew)
   * [关于一场诈骗](https://mp.weixin.qq.com/s/Gg8TD7LzUiNPVRC9Gep_DA)
+  * [牛逼！新书冲到京东榜一了！](https://mp.weixin.qq.com/s/AOyz625Jy44s0TXZGuMrHA)
 * 量化交易
   * [日入上万，Jack 年入百万？](https://mp.weixin.qq.com/s/TnyJOHdl4ejunYVXFxIe5Q)
   * [B站热榜视频，炒股源码来了！](https://mp.weixin.qq.com/s/PdjkbTRMzuaxGogqh1pyow)
