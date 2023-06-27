@@ -33,6 +33,7 @@
   * [看书vs视频，我的一点小建议，共勉！](https://mp.weixin.qq.com/s/CpJjI2GnhF5fES8tY_4npA)
   * [给大学弟妹们的，亿点建议！](https://mp.weixin.qq.com/s/9cIv-3iZJex3jmCIT8QKPg)
 * 视频
+  * [AI写“鲁迅体“2023全国高考作文](https://www.bilibili.com/video/BV1Xu4y1Z7UU/)
   * [AI"鲁迅"，入驻B站啦！](https://www.bilibili.com/video/BV1uu411s7Tn)
   * [【AI唱歌】再次进化！6分钟学会用AI唱歌，杀疯了！](https://www.bilibili.com/video/BV1wv4y1J7pR)
   * [AI声音克隆](https://www.bilibili.com/video/BV1x24y147yq)
