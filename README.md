@@ -171,6 +171,11 @@
   * [已经有企业开始抵制一年制的硕士了](https://mp.weixin.qq.com/s/f5dFank3E6iZvNubt3emjw)
   * [连字节跳动都跳不动了！](https://mp.weixin.qq.com/s/sCeH4RlEX4NZ3WMtc5tdFQ)
   * [一个令人惊艳的新项目，SVD开源了！](https://mp.weixin.qq.com/s/aLYy0a2ZQX3vFfyDBNagig)
+  * [马赛克，克星，真来了！v2.0](https://mp.weixin.qq.com/s/h23UC0f3xUH07VA2qQK85A)
+  * [阿里员工：本月收入489325元，开心过年](https://mp.weixin.qq.com/s/RhZ-Xkr3y0FYJPOKmyKWNA)
+  * [2个令人惊艳的开源项目，诞生了！](https://mp.weixin.qq.com/s/K1B2PI24iuLSmwrEVIJPDQ)
+  * [又火一个惊艳的AI项目，开源了！](https://mp.weixin.qq.com/s/6a3UxUJ-qsV64rnjG3BH3Q)
+  * [微信聊天记录导出的开源项目，火了！](https://mp.weixin.qq.com/s/HCNfS183p87hb3qv_-kufQ)
 * 囧事人生
   * [打工人的薪资倒挂](https://mp.weixin.qq.com/s/qLx8nevYEJnEwnJQq44zYA)
   * [个人网站没落了？](https://mp.weixin.qq.com/s/sum2v1iTokWPaxiNEZCtxg)
@@ -235,6 +240,9 @@
   * [关于一场诈骗](https://mp.weixin.qq.com/s/Gg8TD7LzUiNPVRC9Gep_DA)
   * [牛逼！新书冲到京东榜一了！](https://mp.weixin.qq.com/s/AOyz625Jy44s0TXZGuMrHA)
   * [不卷了，继续彻底躺平的假期，真爽！](https://mp.weixin.qq.com/s/4iPJr1NMNBeBHM45C3vDGQ)
+  * [拼多多今年的薪资。。](https://mp.weixin.qq.com/s/m1wuuKcIiaaYNbylEaLW2A)
+  * [北京，这两天上班可太难了！](https://mp.weixin.qq.com/s/F-vP-NV57gx0-arErE8koA)
+  * [裁员潮都波及到985大学了！](https://mp.weixin.qq.com/s/Lcs3lZJcYhQVpSmu6OGESQ)
 * 量化交易
   * [日入上万，Jack 年入百万？](https://mp.weixin.qq.com/s/TnyJOHdl4ejunYVXFxIe5Q)
   * [B站热榜视频，炒股源码来了！](https://mp.weixin.qq.com/s/PdjkbTRMzuaxGogqh1pyow)
