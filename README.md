@@ -179,6 +179,8 @@
   * [2个令人惊艳的开源项目，诞生了！](https://mp.weixin.qq.com/s/K1B2PI24iuLSmwrEVIJPDQ)
   * [又火一个惊艳的AI项目，开源了！](https://mp.weixin.qq.com/s/6a3UxUJ-qsV64rnjG3BH3Q)
   * [微信聊天记录导出的开源项目，火了！](https://mp.weixin.qq.com/s/HCNfS183p87hb3qv_-kufQ)
+  * [InstantID开源了](https://mp.weixin.qq.com/s/MyrTNNIZ39myQu3IP4uRsA)
+  * [Sora的第一波受害者出现了。](https://mp.weixin.qq.com/s/4WqNqROl3Rs9VHrDY8ZTcg)
 * 囧事人生
   * [打工人的薪资倒挂](https://mp.weixin.qq.com/s/qLx8nevYEJnEwnJQq44zYA)
   * [个人网站没落了？](https://mp.weixin.qq.com/s/sum2v1iTokWPaxiNEZCtxg)
@@ -246,6 +248,7 @@
   * [拼多多今年的薪资。。](https://mp.weixin.qq.com/s/m1wuuKcIiaaYNbylEaLW2A)
   * [北京，这两天上班可太难了！](https://mp.weixin.qq.com/s/F-vP-NV57gx0-arErE8koA)
   * [裁员潮都波及到985大学了！](https://mp.weixin.qq.com/s/Lcs3lZJcYhQVpSmu6OGESQ)
+  * [县城再无清华北大](https://mp.weixin.qq.com/s/OqQrsa4LgBynyvuAMJza1Q)
 * 量化交易
   * [日入上万，Jack 年入百万？](https://mp.weixin.qq.com/s/TnyJOHdl4ejunYVXFxIe5Q)
   * [B站热榜视频，炒股源码来了！](https://mp.weixin.qq.com/s/PdjkbTRMzuaxGogqh1pyow)
