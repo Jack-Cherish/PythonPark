@@ -33,6 +33,9 @@
   * [看书vs视频，我的一点小建议，共勉！](https://mp.weixin.qq.com/s/CpJjI2GnhF5fES8tY_4npA)
   * [给大学弟妹们的，亿点建议！](https://mp.weixin.qq.com/s/9cIv-3iZJex3jmCIT8QKPg)
 * 视频
+  * [王炸！AI声音克隆+Sora开源平替一键启动，全网最简单！](https://www.bilibili.com/video/BV1WC411W79t)
+  * [AI越来越“变态”了，本地部署才是王道！](https://www.bilibili.com/video/BV1LW4y1c7TP)
+  * [AI声音克隆又进化了，1分钟训练模型，一键启动包发布！](https://www.bilibili.com/video/BV1dV411D7Pp/)
   * [AI声音克隆又进化了，10分钟学会声音克隆！一键启动包发布！](https://www.bilibili.com/video/BV1K94y1k7Bw/) 
   * [AI写“鲁迅体“2023全国高考作文](https://www.bilibili.com/video/BV1Xu4y1Z7UU/)
   * [AI"鲁迅"，入驻B站啦！](https://www.bilibili.com/video/BV1uu411s7Tn)
