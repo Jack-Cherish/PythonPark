@@ -245,7 +245,7 @@
   * [关于一场诈骗](https://mp.weixin.qq.com/s/Gg8TD7LzUiNPVRC9Gep_DA)
   * [牛逼！新书冲到京东榜一了！](https://mp.weixin.qq.com/s/AOyz625Jy44s0TXZGuMrHA)
   * [不卷了，继续彻底躺平的假期，真爽！](https://mp.weixin.qq.com/s/4iPJr1NMNBeBHM45C3vDGQ)
-  * [拼多多今年的薪资。。](https://mp.weixin.qq.com/s/m1wuuKcIiaaYNbylEaLW2A)
+  * [拼多多今年的薪资。。。](https://mp.weixin.qq.com/s/m1wuuKcIiaaYNbylEaLW2A)
   * [北京，这两天上班可太难了！](https://mp.weixin.qq.com/s/F-vP-NV57gx0-arErE8koA)
   * [裁员潮都波及到985大学了！](https://mp.weixin.qq.com/s/Lcs3lZJcYhQVpSmu6OGESQ)
   * [县城再无清华北大](https://mp.weixin.qq.com/s/OqQrsa4LgBynyvuAMJza1Q)
