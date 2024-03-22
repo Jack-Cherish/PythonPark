@@ -185,6 +185,7 @@
   * [中国永远不会倒闭的四个行业](https://mp.weixin.qq.com/s/dpejwoUu7eGZxPsGsXS4kw)
   * [阿里的开源，这两天被喷惨了。。](https://mp.weixin.qq.com/s/gB4nQ9Ab5jbnk3RULI-2kQ)
   * [离谱，北邮211本科不符合华为OD要求](https://mp.weixin.qq.com/s/yUJX4p2wdXMtG92HqsCp_Q)
+  * [最新955不加班的公司名单](https://mp.weixin.qq.com/s/WbHCagkvzh7yk5D7uq8gcg)
 * 囧事人生
   * [打工人的薪资倒挂](https://mp.weixin.qq.com/s/qLx8nevYEJnEwnJQq44zYA)
   * [个人网站没落了？](https://mp.weixin.qq.com/s/sum2v1iTokWPaxiNEZCtxg)
