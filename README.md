@@ -188,7 +188,7 @@
   * [最新955不加班的公司名单](https://mp.weixin.qq.com/s/WbHCagkvzh7yk5D7uq8gcg)
   * [3个令人兴奋的AI项目，已开源！](https://mp.weixin.qq.com/s/aPNXaXLlTd5je3MifBsnvg)
   * [4个令人兴奋的爆火AI项目，已开源！](https://mp.weixin.qq.com/s/_kXbZ0qsj_EJqADqli9H9g)
-  * [该死，这糟糕的心动感，AI杀疯了！](https://mp.weixin.qq.com/s/h7HK6z_oj8GySedBKLlyNA)
+  * [该死，这糟糕的心动感，AI杀疯了！ ](https://mp.weixin.qq.com/s/h7HK6z_oj8GySedBKLlyNA)
 * 囧事人生
   * [打工人的薪资倒挂](https://mp.weixin.qq.com/s/qLx8nevYEJnEwnJQq44zYA)
   * [个人网站没落了？](https://mp.weixin.qq.com/s/sum2v1iTokWPaxiNEZCtxg)
