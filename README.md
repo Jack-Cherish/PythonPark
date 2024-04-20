@@ -192,7 +192,7 @@
   * [这是雷军的简历，落魄时卡里只有冰冷的40亿..](https://mp.weixin.qq.com/s/VT_FPohlBrTF4zANoDLlZg)
   * [马赛克，克星，又火一个，已开源！](https://mp.weixin.qq.com/s/ChdXJ4Mw8tULdjVGPBjI3w)
   * [4个令人惊艳的开源项目，诞生了！](https://mp.weixin.qq.com/s/MEcK0hh-axuYlU6njnbUJQ)
-  * [华为又招了一名天才少年。。](https://mp.weixin.qq.com/s/rD3GpcsBH9o1mLAdrnqqNQ)
+  * [华为又招了一名天才少年。。。](https://mp.weixin.qq.com/s/rD3GpcsBH9o1mLAdrnqqNQ)
 * 囧事人生
   * [打工人的薪资倒挂](https://mp.weixin.qq.com/s/qLx8nevYEJnEwnJQq44zYA)
   * [个人网站没落了？](https://mp.weixin.qq.com/s/sum2v1iTokWPaxiNEZCtxg)
