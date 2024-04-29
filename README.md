@@ -264,6 +264,7 @@
   * [阿里员工自曝996作息表](https://mp.weixin.qq.com/s/s-Sl-nf95OsZ98nbY817wg)
   * [七年青春喂了狗。](https://mp.weixin.qq.com/s/LUc5xC_iQBoYFuYwWiQqkw)
   * [小红书今年的校招薪资。。](https://mp.weixin.qq.com/s/hXlJUxBL3WtPjHis--MjCg)
+  * [突发！特斯拉毁约应届生offer！](https://mp.weixin.qq.com/s/OxrJD_1qeAystNX-x7uYeQ)
 * 量化交易
   * [日入上万，Jack 年入百万？](https://mp.weixin.qq.com/s/TnyJOHdl4ejunYVXFxIe5Q)
   * [B站热榜视频，炒股源码来了！](https://mp.weixin.qq.com/s/PdjkbTRMzuaxGogqh1pyow)
