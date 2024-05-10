@@ -195,6 +195,7 @@
   * [华为又招了一名天才少年。。。](https://mp.weixin.qq.com/s/rD3GpcsBH9o1mLAdrnqqNQ)
   * [五一抢票难，Python抢票脚本，火了！](https://mp.weixin.qq.com/s/1s2K5RjTtoNvarepEkF5lg)
   * [又火一个惊艳的AI项目，开源了！](https://mp.weixin.qq.com/s/byzyJwNK18zM_7rLvG3qKw)
+  * [该死，这糟糕的心动感，AI杀疯了！](https://mp.weixin.qq.com/s/dXDLrozJ4tmf8iWQbdiqvg)
 * 囧事人生
   * [打工人的薪资倒挂](https://mp.weixin.qq.com/s/qLx8nevYEJnEwnJQq44zYA)
   * [个人网站没落了？](https://mp.weixin.qq.com/s/sum2v1iTokWPaxiNEZCtxg)
@@ -268,6 +269,7 @@
   * [小红书今年的校招薪资。。](https://mp.weixin.qq.com/s/hXlJUxBL3WtPjHis--MjCg)
   * [突发！特斯拉毁约应届生offer！](https://mp.weixin.qq.com/s/OxrJD_1qeAystNX-x7uYeQ)
   * [阿里发年终奖了](https://mp.weixin.qq.com/s/nJ0WujBtdla9E-3Tj1dc-Q)
+  * [很多朋友都消失了。。](https://mp.weixin.qq.com/s/9L4egvVivprduXw5_M_ohA)
 * 量化交易
   * [日入上万，Jack 年入百万？](https://mp.weixin.qq.com/s/TnyJOHdl4ejunYVXFxIe5Q)
   * [B站热榜视频，炒股源码来了！](https://mp.weixin.qq.com/s/PdjkbTRMzuaxGogqh1pyow)
