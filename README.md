@@ -271,6 +271,9 @@
   * [阿里发年终奖了](https://mp.weixin.qq.com/s/nJ0WujBtdla9E-3Tj1dc-Q)
   * [很多朋友都消失了。。](https://mp.weixin.qq.com/s/9L4egvVivprduXw5_M_ohA)
   * [使用VPN“翻墙”违法，为什么大部分人都没事？](https://mp.weixin.qq.com/s/jCrCneyHjm97lBDzcwEb2g)
+  * [手机「本地部署」开源 GPT，火了！](https://mp.weixin.qq.com/s/du2GrHNUCF391Avom2P20Q)
+  * [又火一个惊艳的AI项目，已开源！](https://mp.weixin.qq.com/s/gIU3JZTMuYsxSWbiSI51OQ)
+  * [炸裂开源！一周爆涨 18K+ 的 Star！](https://mp.weixin.qq.com/s/6lhn9GUiEsL_cqHalZXk_Q)
 * 量化交易
   * [日入上万，Jack 年入百万？](https://mp.weixin.qq.com/s/TnyJOHdl4ejunYVXFxIe5Q)
   * [B站热榜视频，炒股源码来了！](https://mp.weixin.qq.com/s/PdjkbTRMzuaxGogqh1pyow)
