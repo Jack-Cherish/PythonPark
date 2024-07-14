@@ -201,6 +201,9 @@
   * [炸裂开源！一周爆涨 18K+ 的 Star！](https://mp.weixin.qq.com/s/6lhn9GUiEsL_cqHalZXk_Q)
   * [又火一个惊艳的开源项目，诞生了！](https://mp.weixin.qq.com/s/kRCfrY0jmKr6W_YycaALbA)
   * [警告！OpenAI宣布全面封锁中国API接入](https://mp.weixin.qq.com/s/QAk0KqtAgSb36p2QnYJlLw)
+  * [被判赔1250万！非法抓取高德地图数据。。](https://mp.weixin.qq.com/s/Z6UccYaX7NS-PSaIML7F0w)
+  * [又火一个惊艳的AI项目，已开源！](https://mp.weixin.qq.com/s/Q4Dv4wA8Lfj8fbYw6Jxu6g)
+  * [推荐 3 个 yyds 的开源项目！](https://mp.weixin.qq.com/s/niU3FUloYi4or3O0k1934w)
 * 囧事人生
   * [打工人的薪资倒挂](https://mp.weixin.qq.com/s/qLx8nevYEJnEwnJQq44zYA)
   * [个人网站没落了？](https://mp.weixin.qq.com/s/sum2v1iTokWPaxiNEZCtxg)
@@ -279,6 +282,9 @@
   * [未来可能消失的编程语言](https://mp.weixin.qq.com/s/S-aS1vVRxEc5aQy6FgUVOg)
   * [团队准备解散了。。](https://mp.weixin.qq.com/s/tC3fGB9HXU4jSrHMt2dDTA)
   * [CSDN又抽风了，GitCode 被曝...](https://mp.weixin.qq.com/s/HLyzX-NxttY9bH8x2amLOA)
+  * [今年的毕业生太难了。。](https://mp.weixin.qq.com/s/h7h2X_d_pv06XPKU7jJYVA)
+  * [绿联NAS翻车，被爆安全缺陷...](https://mp.weixin.qq.com/s/LRS3IvibWARweaNtzkEYSQ)
+  * [腾讯和去哪儿网官宣两件大事，上热搜了！](https://mp.weixin.qq.com/s/SyWsMqpmGIBRh053SemlZg)
 * 量化交易
   * [日入上万，Jack 年入百万？](https://mp.weixin.qq.com/s/TnyJOHdl4ejunYVXFxIe5Q)
   * [B站热榜视频，炒股源码来了！](https://mp.weixin.qq.com/s/PdjkbTRMzuaxGogqh1pyow)
