@@ -204,6 +204,7 @@
   * [被判赔1250万！非法抓取高德地图数据。。](https://mp.weixin.qq.com/s/Z6UccYaX7NS-PSaIML7F0w)
   * [又火一个惊艳的AI项目，已开源！](https://mp.weixin.qq.com/s/Q4Dv4wA8Lfj8fbYw6Jxu6g)
   * [推荐 3 个 yyds 的开源项目！](https://mp.weixin.qq.com/s/niU3FUloYi4or3O0k1934w)
+  * [又火两个惊艳的AI项目，已开源！]（https://mp.weixin.qq.com/s/PF3s0hidFtcW6Z1gI-OrnA）
 * 囧事人生
   * [打工人的薪资倒挂](https://mp.weixin.qq.com/s/qLx8nevYEJnEwnJQq44zYA)
   * [个人网站没落了？](https://mp.weixin.qq.com/s/sum2v1iTokWPaxiNEZCtxg)
