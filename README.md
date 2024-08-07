@@ -205,6 +205,10 @@
   * [又火一个惊艳的AI项目，已开源！](https://mp.weixin.qq.com/s/Q4Dv4wA8Lfj8fbYw6Jxu6g)
   * [推荐 3 个 yyds 的开源项目！](https://mp.weixin.qq.com/s/niU3FUloYi4or3O0k1934w)
   * [又火两个惊艳的AI项目，已开源！]（https://mp.weixin.qq.com/s/PF3s0hidFtcW6Z1gI-OrnA）
+  * [大模型集体失智！9.11比9.9大？全员翻车!](https://mp.weixin.qq.com/s/f2s1T7KTWnX72HzZb5uJQg)
+  * [绝了，电脑被监控了！还怎么摸鱼？](https://mp.weixin.qq.com/s/bxT4Z6zhZ5h3MMYwRADLSg)
+  * [3个惊艳的AI项目火出圈，已开源！](https://mp.weixin.qq.com/s/KdgsIbDW1Sfp-JP0vSLNGg)
+  * [终于不用为GPU算力发愁了，请低调使用！](https://mp.weixin.qq.com/s/v16t6v-S3WPL5YJW2uAU-Q)
 * 囧事人生
   * [打工人的薪资倒挂](https://mp.weixin.qq.com/s/qLx8nevYEJnEwnJQq44zYA)
   * [个人网站没落了？](https://mp.weixin.qq.com/s/sum2v1iTokWPaxiNEZCtxg)
@@ -286,6 +290,8 @@
   * [今年的毕业生太难了。。](https://mp.weixin.qq.com/s/h7h2X_d_pv06XPKU7jJYVA)
   * [绿联NAS翻车，被爆安全缺陷...](https://mp.weixin.qq.com/s/LRS3IvibWARweaNtzkEYSQ)
   * [腾讯和去哪儿网官宣两件大事，上热搜了！](https://mp.weixin.qq.com/s/SyWsMqpmGIBRh053SemlZg)
+  * [佳能苏州裁员补偿2N+12？官方最新回应！](https://mp.weixin.qq.com/s/RicyPQ_1_lILtJWQM9N65g)
+  * [程序员转行送外卖，被嘲笑？](https://mp.weixin.qq.com/s/MyBTbHsylpia-avAIPsP4Q)
 * 量化交易
   * [日入上万，Jack 年入百万？](https://mp.weixin.qq.com/s/TnyJOHdl4ejunYVXFxIe5Q)
   * [B站热榜视频，炒股源码来了！](https://mp.weixin.qq.com/s/PdjkbTRMzuaxGogqh1pyow)
