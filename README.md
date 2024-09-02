@@ -212,7 +212,6 @@
   * [一个火爆外网的国产AI项目，已开源！](https://mp.weixin.qq.com/s/8d5dFp80-tG03uQNLA9q5Q)
   * [又一个爆火的AI项目，逼真到恐怖的Flux！【保姆级硬核教程】](https://mp.weixin.qq.com/s/T8Wew9zvUtIhKXSEfgkP4Q)
   * [AI恶搞《黑神话：悟空》爆火！](https://mp.weixin.qq.com/s/blNQaRgjgdNU-JlfomYMcA)
-  * [开源版「网易云音乐」，火了！](https://mp.weixin.qq.com/s/E3ourgHNwKyqk09MlTx5gA)
   * [韩国N号房卷土重来？AI造假？！](https://mp.weixin.qq.com/s/pEBiXEs0ltIUGuuKGMsIBA)
 * 囧事人生
   * [打工人的薪资倒挂](https://mp.weixin.qq.com/s/qLx8nevYEJnEwnJQq44zYA)
@@ -355,6 +354,7 @@
   * [保姆级Git入门教程，万字详解](https://mp.weixin.qq.com/s/2eA7VfHDd0MRGz_YgVrbiw)
   * [提高国内访问Github速度的9种方法](https://mp.weixin.qq.com/s/3LfveCU2Hm7N6OnV3Gtx3Q)
   * [我的十八般武器，这波稳了！](https://mp.weixin.qq.com/s/2QWVRbH-_jJZINmem8WK-w)
+  s* [开源版「网易云音乐」，火了！](https://mp.weixin.qq.com/s/E3ourgHNwKyqk09MlTx5gA)
 * 其他
   * [代码已开源，一起魔改大西瓜！](https://mp.weixin.qq.com/s/6MzJkehRr4BKVKSnsqpMxA)
   * [别再折腾开发环境了，一劳永逸的搭建方法](https://mp.weixin.qq.com/s/ghKGVutz9RQ4fMGJDHWtww)
