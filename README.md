@@ -354,7 +354,7 @@
   * [保姆级Git入门教程，万字详解](https://mp.weixin.qq.com/s/2eA7VfHDd0MRGz_YgVrbiw)
   * [提高国内访问Github速度的9种方法](https://mp.weixin.qq.com/s/3LfveCU2Hm7N6OnV3Gtx3Q)
   * [我的十八般武器，这波稳了！](https://mp.weixin.qq.com/s/2QWVRbH-_jJZINmem8WK-w)
-  s* [开源版「网易云音乐」，火了！](https://mp.weixin.qq.com/s/E3ourgHNwKyqk09MlTx5gA)
+  * [开源版「网易云音乐」，火了！](https://mp.weixin.qq.com/s/E3ourgHNwKyqk09MlTx5gA)
 * 其他
   * [代码已开源，一起魔改大西瓜！](https://mp.weixin.qq.com/s/6MzJkehRr4BKVKSnsqpMxA)
   * [别再折腾开发环境了，一劳永逸的搭建方法](https://mp.weixin.qq.com/s/ghKGVutz9RQ4fMGJDHWtww)
