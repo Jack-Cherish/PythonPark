@@ -299,6 +299,7 @@
   * [知名开源作者删库跑路，项目被用于诈骗？](https://mp.weixin.qq.com/s/OiHk7MAKDvZWE87wVBaOLg)
   * [《黑神话·悟空》是用什么编程语言开发的？](https://mp.weixin.qq.com/s/phhJzgKpRuqgJZxR_tWa4g)
   * [IBM中国裁员赔偿N+3！千人被裁，中国研发部彻底关闭！](https://mp.weixin.qq.com/s/vwQVn-Y0q6wb7cI0ntde6A)
+  * [离谱，深圳某公司重新定义8小时工作制！](https://mp.weixin.qq.com/s/nxIjb3WHjhZUPiAl2pAvkw)
 * 量化交易
   * [日入上万，Jack 年入百万？](https://mp.weixin.qq.com/s/TnyJOHdl4ejunYVXFxIe5Q)
   * [B站热榜视频，炒股源码来了！](https://mp.weixin.qq.com/s/PdjkbTRMzuaxGogqh1pyow)
