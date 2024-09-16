@@ -204,11 +204,15 @@
   * [被判赔1250万！非法抓取高德地图数据。。](https://mp.weixin.qq.com/s/Z6UccYaX7NS-PSaIML7F0w)
   * [又火一个惊艳的AI项目，已开源！](https://mp.weixin.qq.com/s/Q4Dv4wA8Lfj8fbYw6Jxu6g)
   * [推荐 3 个 yyds 的开源项目！](https://mp.weixin.qq.com/s/niU3FUloYi4or3O0k1934w)
-  * [又火两个惊艳的AI项目，已开源！]（https://mp.weixin.qq.com/s/PF3s0hidFtcW6Z1gI-OrnA）
+  * [又火两个惊艳的AI项目，已开源！](https://mp.weixin.qq.com/s/PF3s0hidFtcW6Z1gI-OrnA)
   * [大模型集体失智！9.11比9.9大？全员翻车!](https://mp.weixin.qq.com/s/f2s1T7KTWnX72HzZb5uJQg)
   * [绝了，电脑被监控了！还怎么摸鱼？](https://mp.weixin.qq.com/s/bxT4Z6zhZ5h3MMYwRADLSg)
   * [3个惊艳的AI项目火出圈，已开源！](https://mp.weixin.qq.com/s/KdgsIbDW1Sfp-JP0vSLNGg)
   * [终于不用为GPU算力发愁了，请低调使用！](https://mp.weixin.qq.com/s/v16t6v-S3WPL5YJW2uAU-Q)
+  * [一个火爆外网的国产AI项目，已开源！](https://mp.weixin.qq.com/s/8d5dFp80-tG03uQNLA9q5Q)
+  * [又一个爆火的AI项目，逼真到恐怖的Flux！【保姆级硬核教程】](https://mp.weixin.qq.com/s/T8Wew9zvUtIhKXSEfgkP4Q)
+  * [AI恶搞《黑神话：悟空》爆火！](https://mp.weixin.qq.com/s/blNQaRgjgdNU-JlfomYMcA)
+  * [韩国N号房卷土重来？AI造假？！](https://mp.weixin.qq.com/s/pEBiXEs0ltIUGuuKGMsIBA)
 * 囧事人生
   * [打工人的薪资倒挂](https://mp.weixin.qq.com/s/qLx8nevYEJnEwnJQq44zYA)
   * [个人网站没落了？](https://mp.weixin.qq.com/s/sum2v1iTokWPaxiNEZCtxg)
@@ -292,6 +296,10 @@
   * [腾讯和去哪儿网官宣两件大事，上热搜了！](https://mp.weixin.qq.com/s/SyWsMqpmGIBRh053SemlZg)
   * [佳能苏州裁员补偿2N+12？官方最新回应！](https://mp.weixin.qq.com/s/RicyPQ_1_lILtJWQM9N65g)
   * [程序员转行送外卖，被嘲笑？](https://mp.weixin.qq.com/s/MyBTbHsylpia-avAIPsP4Q)
+  * [知名开源作者删库跑路，项目被用于诈骗？](https://mp.weixin.qq.com/s/OiHk7MAKDvZWE87wVBaOLg)
+  * [《黑神话·悟空》是用什么编程语言开发的？](https://mp.weixin.qq.com/s/phhJzgKpRuqgJZxR_tWa4g)
+  * [IBM中国裁员赔偿N+3！千人被裁，中国研发部彻底关闭！](https://mp.weixin.qq.com/s/vwQVn-Y0q6wb7cI0ntde6A)
+  * [离谱，深圳某公司重新定义8小时工作制！](https://mp.weixin.qq.com/s/nxIjb3WHjhZUPiAl2pAvkw)
 * 量化交易
   * [日入上万，Jack 年入百万？](https://mp.weixin.qq.com/s/TnyJOHdl4ejunYVXFxIe5Q)
   * [B站热榜视频，炒股源码来了！](https://mp.weixin.qq.com/s/PdjkbTRMzuaxGogqh1pyow)
@@ -347,6 +355,7 @@
   * [保姆级Git入门教程，万字详解](https://mp.weixin.qq.com/s/2eA7VfHDd0MRGz_YgVrbiw)
   * [提高国内访问Github速度的9种方法](https://mp.weixin.qq.com/s/3LfveCU2Hm7N6OnV3Gtx3Q)
   * [我的十八般武器，这波稳了！](https://mp.weixin.qq.com/s/2QWVRbH-_jJZINmem8WK-w)
+  * [开源版「网易云音乐」，火了！](https://mp.weixin.qq.com/s/E3ourgHNwKyqk09MlTx5gA)
 * 其他
   * [代码已开源，一起魔改大西瓜！](https://mp.weixin.qq.com/s/6MzJkehRr4BKVKSnsqpMxA)
   * [别再折腾开发环境了，一劳永逸的搭建方法](https://mp.weixin.qq.com/s/ghKGVutz9RQ4fMGJDHWtww)
