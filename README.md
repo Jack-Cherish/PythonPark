@@ -215,6 +215,7 @@
   * [韩国N号房卷土重来？AI造假？！](https://mp.weixin.qq.com/s/pEBiXEs0ltIUGuuKGMsIBA)
   * [终于不用为GPU算力发愁了，FLUX LoRA训练一键启动！](https://mp.weixin.qq.com/s/m0eMLLkftMWYHCSnmNl1fQ)
   * [【实测体验】OpenAI震撼发布o1大模型！](https://mp.weixin.qq.com/s/EvVqKaoJtpIHt-q1vXy9WQ)
+  * [又火两个惊艳的AI项目，已开源！](https://mp.weixin.qq.com/s/u8tHtlasDRlRgW9dgPkAEQ)
 * 囧事人生
   * [打工人的薪资倒挂](https://mp.weixin.qq.com/s/qLx8nevYEJnEwnJQq44zYA)
   * [个人网站没落了？](https://mp.weixin.qq.com/s/sum2v1iTokWPaxiNEZCtxg)
