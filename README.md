@@ -217,6 +217,7 @@
   * [【实测体验】OpenAI震撼发布o1大模型！](https://mp.weixin.qq.com/s/EvVqKaoJtpIHt-q1vXy9WQ)
   * [又火两个惊艳的AI项目，已开源！](https://mp.weixin.qq.com/s/u8tHtlasDRlRgW9dgPkAEQ)
   * [又火三个惊艳的AI项目，已开源！](https://mp.weixin.qq.com/s/i0pzaLfOvbTgrhDMzXrIUQ)
+  * [OpenAI 奥特曼成“光杆司令”了！](https://mp.weixin.qq.com/s/Wi_hacpwP-YUl7oABqHX0g)
 * 囧事人生
   * [打工人的薪资倒挂](https://mp.weixin.qq.com/s/qLx8nevYEJnEwnJQq44zYA)
   * [个人网站没落了？](https://mp.weixin.qq.com/s/sum2v1iTokWPaxiNEZCtxg)
@@ -306,6 +307,7 @@
   * [离谱，深圳某公司重新定义8小时工作制！](https://mp.weixin.qq.com/s/nxIjb3WHjhZUPiAl2pAvkw)
   * [英伟达，危！？Pytorch不再需要CUDA！](https://mp.weixin.qq.com/s/ryGxKyN1Hej5AXXoSQD98Q)
   * [拼夕夕员工，反对双休？](https://mp.weixin.qq.com/s/g2GGqjlyXBKdqlnIJfnxBQ)
+  * [A股涨疯了！见证历史！](https://mp.weixin.qq.com/s/zTRnd3ayFbc9cqpxDbwunQ)
 * 量化交易
   * [日入上万，Jack 年入百万？](https://mp.weixin.qq.com/s/TnyJOHdl4ejunYVXFxIe5Q)
   * [B站热榜视频，炒股源码来了！](https://mp.weixin.qq.com/s/PdjkbTRMzuaxGogqh1pyow)
