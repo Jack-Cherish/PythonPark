@@ -218,6 +218,7 @@
   * [又火两个惊艳的AI项目，已开源！](https://mp.weixin.qq.com/s/u8tHtlasDRlRgW9dgPkAEQ)
   * [又火三个惊艳的AI项目，已开源！](https://mp.weixin.qq.com/s/i0pzaLfOvbTgrhDMzXrIUQ)
   * [OpenAI 奥特曼成“光杆司令”了！](https://mp.weixin.qq.com/s/Wi_hacpwP-YUl7oABqHX0g)
+  * [AI如此逼真，应该如何分辨？](https://mp.weixin.qq.com/s/efnUGFHSDAgQCfbdI-BDJQ)
 * 囧事人生
   * [打工人的薪资倒挂](https://mp.weixin.qq.com/s/qLx8nevYEJnEwnJQq44zYA)
   * [个人网站没落了？](https://mp.weixin.qq.com/s/sum2v1iTokWPaxiNEZCtxg)
