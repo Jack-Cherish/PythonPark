@@ -310,6 +310,8 @@
   * [英伟达，危！？Pytorch不再需要CUDA！](https://mp.weixin.qq.com/s/ryGxKyN1Hej5AXXoSQD98Q)
   * [拼夕夕员工，反对双休？](https://mp.weixin.qq.com/s/g2GGqjlyXBKdqlnIJfnxBQ)
   * [A股涨疯了！见证历史！](https://mp.weixin.qq.com/s/zTRnd3ayFbc9cqpxDbwunQ)
+  * [剧情反转！95后学术天才的逆天简历？！](https://mp.weixin.qq.com/s/GO7f-5Ax0iJCse2y5vQAWA)
+  * [某节大瓜，GPU集群投毒！](https://mp.weixin.qq.com/s/IEpFS3baqDyczIFKtscimg)
 * 量化交易
   * [日入上万，Jack 年入百万？](https://mp.weixin.qq.com/s/TnyJOHdl4ejunYVXFxIe5Q)
   * [B站热榜视频，炒股源码来了！](https://mp.weixin.qq.com/s/PdjkbTRMzuaxGogqh1pyow)
