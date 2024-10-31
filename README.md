@@ -220,6 +220,8 @@
   * [OpenAI 奥特曼成“光杆司令”了！](https://mp.weixin.qq.com/s/Wi_hacpwP-YUl7oABqHX0g)
   * [AI如此逼真，应该如何分辨？](https://mp.weixin.qq.com/s/efnUGFHSDAgQCfbdI-BDJQ)
   * [逆天，小猿口算AI炸鱼，小学生被炸哭！](https://mp.weixin.qq.com/s/H5YDhWzWew0qjZUSSbmu0w)
+  * [智谱清言，爆发了！](https://mp.weixin.qq.com/s/AhDEFshrSN-mfx2fx6tRNg)
+  * [谷歌又搞事，AI无限游戏要来了？！](https://mp.weixin.qq.com/s/bKtWRIWsBe5yp00kFJYK-w)
 * 囧事人生
   * [打工人的薪资倒挂](https://mp.weixin.qq.com/s/qLx8nevYEJnEwnJQq44zYA)
   * [个人网站没落了？](https://mp.weixin.qq.com/s/sum2v1iTokWPaxiNEZCtxg)
