@@ -314,6 +314,8 @@
   * [A股涨疯了！见证历史！](https://mp.weixin.qq.com/s/zTRnd3ayFbc9cqpxDbwunQ)
   * [剧情反转！95后学术天才的逆天简历？！](https://mp.weixin.qq.com/s/GO7f-5Ax0iJCse2y5vQAWA)
   * [某节大瓜，GPU集群投毒！](https://mp.weixin.qq.com/s/IEpFS3baqDyczIFKtscimg)
+  * [哎，又进医院了，被折磨一个月。。](https://mp.weixin.qq.com/s/34cSbpiXoyNBZgK92QZ_uQ)
+  * [15岁初中生，开源项目被数百万收购，简直降维打击。。。](https://mp.weixin.qq.com/s/gQLSZHvoqc5Cnx-cpStwcQ)
 * 量化交易
   * [日入上万，Jack 年入百万？](https://mp.weixin.qq.com/s/TnyJOHdl4ejunYVXFxIe5Q)
   * [B站热榜视频，炒股源码来了！](https://mp.weixin.qq.com/s/PdjkbTRMzuaxGogqh1pyow)
