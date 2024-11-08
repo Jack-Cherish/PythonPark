@@ -220,6 +220,10 @@
   * [OpenAI 奥特曼成“光杆司令”了！](https://mp.weixin.qq.com/s/Wi_hacpwP-YUl7oABqHX0g)
   * [AI如此逼真，应该如何分辨？](https://mp.weixin.qq.com/s/efnUGFHSDAgQCfbdI-BDJQ)
   * [逆天，小猿口算AI炸鱼，小学生被炸哭！](https://mp.weixin.qq.com/s/H5YDhWzWew0qjZUSSbmu0w)
+  * [智谱清言，爆发了！](https://mp.weixin.qq.com/s/AhDEFshrSN-mfx2fx6tRNg)
+  * [谷歌又搞事，AI无限游戏要来了？！](https://mp.weixin.qq.com/s/bKtWRIWsBe5yp00kFJYK-w)
+  * [15岁初中生，开源项目被数百万收购，简直降维打击。。。](https://mp.weixin.qq.com/s/gQLSZHvoqc5Cnx-cpStwcQ)
+  * [好生猛，全球首款AI游戏问世！](https://mp.weixin.qq.com/s/EcYCjPbiHTmifPWDU5HJUg)
 * 囧事人生
   * [打工人的薪资倒挂](https://mp.weixin.qq.com/s/qLx8nevYEJnEwnJQq44zYA)
   * [个人网站没落了？](https://mp.weixin.qq.com/s/sum2v1iTokWPaxiNEZCtxg)
@@ -310,6 +314,9 @@
   * [英伟达，危！？Pytorch不再需要CUDA！](https://mp.weixin.qq.com/s/ryGxKyN1Hej5AXXoSQD98Q)
   * [拼夕夕员工，反对双休？](https://mp.weixin.qq.com/s/g2GGqjlyXBKdqlnIJfnxBQ)
   * [A股涨疯了！见证历史！](https://mp.weixin.qq.com/s/zTRnd3ayFbc9cqpxDbwunQ)
+  * [剧情反转！95后学术天才的逆天简历？！](https://mp.weixin.qq.com/s/GO7f-5Ax0iJCse2y5vQAWA)
+  * [某节大瓜，GPU集群投毒！](https://mp.weixin.qq.com/s/IEpFS3baqDyczIFKtscimg)
+  * [哎，又进医院了，被折磨一个月。。](https://mp.weixin.qq.com/s/34cSbpiXoyNBZgK92QZ_uQ)
 * 量化交易
   * [日入上万，Jack 年入百万？](https://mp.weixin.qq.com/s/TnyJOHdl4ejunYVXFxIe5Q)
   * [B站热榜视频，炒股源码来了！](https://mp.weixin.qq.com/s/PdjkbTRMzuaxGogqh1pyow)
