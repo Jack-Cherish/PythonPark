@@ -224,6 +224,8 @@
   * [谷歌又搞事，AI无限游戏要来了？！](https://mp.weixin.qq.com/s/bKtWRIWsBe5yp00kFJYK-w)
   * [15岁初中生，开源项目被数百万收购，简直降维打击。。。](https://mp.weixin.qq.com/s/gQLSZHvoqc5Cnx-cpStwcQ)
   * [好生猛，全球首款AI游戏问世！](https://mp.weixin.qq.com/s/EcYCjPbiHTmifPWDU5HJUg)
+  * [在预言特朗普这件事上，ChatGPT输了！](https://mp.weixin.qq.com/s/motN88GhEqp7i6OAKPHe6Q)
+  * [推荐 2 个 YYDS 开源项目！](https://mp.weixin.qq.com/s/h0uKgPAyZH39MU622CS8fw)
 * 囧事人生
   * [打工人的薪资倒挂](https://mp.weixin.qq.com/s/qLx8nevYEJnEwnJQq44zYA)
   * [个人网站没落了？](https://mp.weixin.qq.com/s/sum2v1iTokWPaxiNEZCtxg)
@@ -317,6 +319,7 @@
   * [剧情反转！95后学术天才的逆天简历？！](https://mp.weixin.qq.com/s/GO7f-5Ax0iJCse2y5vQAWA)
   * [某节大瓜，GPU集群投毒！](https://mp.weixin.qq.com/s/IEpFS3baqDyczIFKtscimg)
   * [哎，又进医院了，被折磨一个月。。](https://mp.weixin.qq.com/s/34cSbpiXoyNBZgK92QZ_uQ)
+  * [清华临床硕士，转行去华为 OD？](https://mp.weixin.qq.com/s/_kKtS1x1E23L-N3r_KKn8g)
 * 量化交易
   * [日入上万，Jack 年入百万？](https://mp.weixin.qq.com/s/TnyJOHdl4ejunYVXFxIe5Q)
   * [B站热榜视频，炒股源码来了！](https://mp.weixin.qq.com/s/PdjkbTRMzuaxGogqh1pyow)
